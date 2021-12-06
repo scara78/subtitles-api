@@ -29,7 +29,7 @@ app.use(express.json());
 app.use(cors());
 
 app.get('/', (req, res, next) => {
-	returnJSON({ req, res, next, code: 200, status: 'ok', message: '', torrents: client.torrents });
+	returnJSON({ req, res, next, code: 200, status: 'ok', message: '', torrents: JSON.stringify(client.torrents) });
 })
 
 app.post('/download', (req, res, next) => {
