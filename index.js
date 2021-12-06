@@ -39,14 +39,13 @@ app.post('/download', (req, res, next) => {
     if (!torrentWasAdded) {
       client.add(torrentId, { path: downloadsPath }, (t) => {
 				const video = t.files.find((file) => file.name.endsWith('.mp4'));
-				console.log(video.path)
 				returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Torrent downloading', magnet: t.magnetURI, video: video.path });
       });
     } else {
       returnJSON({ req, res, next, code: 400, status: 'error', message: 'Torrent was already added' });
     }
   } catch (error) {
-    returnJSON({ req, res, next, code: 400,status:  'error', message: 'Unexpected error' });
+    returnJSON({ req, res, next, code: 400, status:  'error', message: 'Unexpected error' });
   }
 })
 
