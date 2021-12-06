@@ -28,6 +28,10 @@ app.use(express.json());
 
 app.use(cors());
 
+app.get('/', (req, res, next) => {
+	returnJSON({ req, res, next, code: 200, status: 'ok', message: '', torrents: client.torrents });
+})
+
 app.post('/download', (req, res, next) => {
   try {
     const { id: torrentId } = req.body;
@@ -35,7 +39,7 @@ app.post('/download', (req, res, next) => {
     if (!torrentWasAdded) {
       client.add(torrentId, { path: 'downloads' }, (t) => {
 				if (t.ready) {
-					const video = t.files.find((file) => file.name.endsWith('.mp4'));
+					// const video = t.files.find((file) => file.name.endsWith('.mp4'));
         	returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Torrent downloading', magnet: t.magnetURI, path: t.path, files: t.files });
 				}
       });
