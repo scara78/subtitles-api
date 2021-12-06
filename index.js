@@ -26,11 +26,14 @@ const returnJSON = ({req, res, next, code, status, message, ...args}) => {
 
 app.use(express.json());
 
+app.use(express.static('public'));
+
+//Serves all the request which includes /images in the url from Images folder
+app.use('/', express.static(__dirname + ''));
+
+
 app.use(cors());
 
-app.get('/', (req, res, next) => {
-	returnJSON({ req, res, next, code: 200, status: 'ok', message: '', torrents: JSON.stringify(client.torrents) });
-})
 
 app.post('/download', (req, res, next) => {
   try {
