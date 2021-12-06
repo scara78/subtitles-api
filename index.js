@@ -26,12 +26,6 @@ const returnJSON = ({req, res, next, code, status, message, ...args}) => {
 
 app.use(express.json());
 
-app.use(express.static('public'));
-
-//Serves all the request which includes /images in the url from Images folder
-app.get('/', express.static(__dirname + ''));
-
-
 app.use(cors());
 
 
@@ -41,6 +35,7 @@ app.post('/download', (req, res, next) => {
     const torrentWasAdded = client.get(torrentId);
     if (!torrentWasAdded) {
       client.add(torrentId, { path: 'downloads' }, (t) => {
+				t.createServer().listen(3000);
 				returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Torrent downloading', magnet: t.magnetURI });
       });
     } else {
