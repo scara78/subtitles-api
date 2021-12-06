@@ -38,10 +38,7 @@ app.post('/download', (req, res, next) => {
     const torrentWasAdded = client.get(torrentId);
     if (!torrentWasAdded) {
       client.add(torrentId, { path: 'downloads' }, (t) => {
-				if (t.ready) {
-					// const video = t.files.find((file) => file.name.endsWith('.mp4'));
-        	returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Torrent downloading', magnet: t.magnetURI, path: t.path, files: t.files });
-				}
+				returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Torrent downloading', magnet: t.magnetURI });
       });
     } else {
       returnJSON({ req, res, next, code: 400, status: 'error', message: 'Torrent was already added' });
