@@ -38,7 +38,7 @@ app.post('/download', (req, res, next) => {
     const torrentWasAdded = client.get(torrentId);
     if (!torrentWasAdded) {
       client.add(torrentId, { path: downloadsPath }, (t) => {
-				const video = t.files.find((file) => file.name.endsWith('.mp4'));
+				const video = t.files.find((file) => file.name.endsWith('.mp4') || file.name.endsWith('.mkv'));
 				returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Torrent downloading', magnet: t.magnetURI, video: video.path });
       });
     } else {
