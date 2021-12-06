@@ -19,6 +19,7 @@
     "express": "^4.17.1",
     "node-pre-gyp": "^0.17.0",
     "nodemon": "^2.0.15",
+    "parse-torrent": "^9.1.4",
     "webtorrent": "^1.5.8",
     "wrtc": "^0.4.7"
   }
