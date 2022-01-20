@@ -18,15 +18,13 @@ const downloadsPath = 'downloads';
 const client = new WebTorrent();
 
 const returnJSON = ({req, res, next, code, status, message, ...args}) => {
-  setTimeout(() => {
-    res.status(code);
-    res.json({
-      status,
-      message,
-      ...args,
-    });
-    next();
-  }, 3000);
+  res.status(code);
+  res.json({
+    status,
+    message,
+    ...args,
+  });
+  next();
 };
 
 app.use(express.json());
