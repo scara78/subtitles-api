@@ -2,8 +2,17 @@ import WebTorrent from 'webtorrent';
 import cors from 'cors';
 import express from 'express';
 import wrtc from 'wrtc';
-import parseTorrent from 'parse-torrent'
+import parseTorrent from 'parse-torrent';
+import 'dotenv/config';
 import { announceList as defaultAnnounceList } from 'create-torrent';
+import OS from 'opensubtitles-api';
+
+const OpenSubtitles = new OS({
+    useragent:'UserAgent',
+    username: process.env.OPEN_SUBTITLES_USERNAME,
+    password: process.env.OPEN_SUBTITLES_PASSWORD,
+    ssl: true
+});
 
 globalThis.WEBTORRENT_ANNOUNCE = defaultAnnounceList
   .map((arr) => arr[0])
@@ -50,18 +59,20 @@ const checkIfTorrentIsValid = (torrentId) => new Promise((resolve) => {
 
 app.post('/download', async (req, res, next) => {
   try {
-    const { id: torrentId } = req.body;
+    const { id: torrentId, imdbid } = req.body;
     const torrentIsValid = await checkIfTorrentIsValid(torrentId);
     const torrentHash = await torrentIsValid.infoHash || torrentIsValid;
     const torrentWasAdded = client.get(await torrentHash);
     if (!torrentWasAdded && torrentHash) {
-      client.add(await torrentHash, { path: downloadsPath }, (t) => {
+      client.add(await torrentHash, { path: downloadsPath }, async (t) => {
 				const video = t.files.find((file) => file.name.endsWith('.mp4') || file.name.endsWith('.mkv'));
-				returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Torrent downloading', magnet: t.magnetURI, video: video.path, progress: t.progress });
+        const allSubs = await OpenSubtitles.search({ imdbid });
+				returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Torrent downloading', magnet: t.magnetURI, video: video.path, progress: t.progress, subs: allSubs });
       });
     } else {
       const video = torrentWasAdded.files.find((file) => file.name.endsWith('.mp4') || file.name.endsWith('.mkv'));
-      returnJSON({ req, res, next, code: 400, status: 'error', message: 'Torrent was already added', video: video.path, progress: torrentWasAdded.progress });
+      const allSubs = await OpenSubtitles.search({ imdbid });
+      returnJSON({ req, res, next, code: 400, status: 'error', message: 'Torrent was already added', video: video.path, progress: torrentWasAdded.progress, subs: allSubs });
     }
   } catch (error) {
     returnJSON({ req, res, next, code: 400, status:  'error', message: 'Unexpected error' });
