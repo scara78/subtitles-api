@@ -57,11 +57,11 @@ app.post('/download', async (req, res, next) => {
     if (!torrentWasAdded && torrentHash) {
       client.add(await torrentHash, { path: downloadsPath }, (t) => {
 				const video = t.files.find((file) => file.name.endsWith('.mp4') || file.name.endsWith('.mkv'));
-				returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Torrent downloading', magnet: t.magnetURI, video: video.path });
+				returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Torrent downloading', magnet: t.magnetURI, video: video.path, progress: t.progress });
       });
     } else {
       const video = torrentWasAdded.files.find((file) => file.name.endsWith('.mp4') || file.name.endsWith('.mkv'));
-      returnJSON({ req, res, next, code: 400, status: 'error', message: 'Torrent was already added', video: video.path });
+      returnJSON({ req, res, next, code: 400, status: 'error', message: 'Torrent was already added', video: video.path, progress: torrentWasAdded.progress });
     }
   } catch (error) {
     returnJSON({ req, res, next, code: 400, status:  'error', message: 'Unexpected error' });
