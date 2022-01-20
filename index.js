@@ -52,7 +52,7 @@ app.post('/download', async (req, res, next) => {
   try {
     const { id: torrentId } = req.body;
     const torrentIsValid = await checkIfTorrentIsValid(torrentId);
-    const torrentHash = await torrentIsValid.infoHash;
+    const torrentHash = await torrentIsValid.infoHash || torrentIsValid;
     const torrentWasAdded = client.get(await torrentHash);
     if (!torrentWasAdded && torrentHash) {
       client.add(await torrentHash, { path: downloadsPath }, (t) => {
