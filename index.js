@@ -60,7 +60,8 @@ app.post('/download', async (req, res, next) => {
 				returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Torrent downloading', magnet: t.magnetURI, video: video.path });
       });
     } else {
-      returnJSON({ req, res, next, code: 400, status: 'error', message: 'Torrent was already added' });
+      const video = torrentWasAdded.files.find((file) => file.name.endsWith('.mp4') || file.name.endsWith('.mkv'));
+      returnJSON({ req, res, next, code: 400, status: 'error', message: 'Torrent was already added', video: video.path });
     }
   } catch (error) {
     returnJSON({ req, res, next, code: 400, status:  'error', message: 'Unexpected error' });
