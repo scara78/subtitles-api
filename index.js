@@ -72,7 +72,7 @@ app.post('/download', async (req, res, next) => {
     } else {
       const video = torrentWasAdded.files.find((file) => file.name.endsWith('.mp4') || file.name.endsWith('.mkv'));
       const allSubs = await OpenSubtitles.search({ imdbid });
-      returnJSON({ req, res, next, code: 400, status: 'error', message: 'Torrent was already added', video: video.path, progress: torrentWasAdded.progress, subs: allSubs });
+      returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Torrent is being downloaded', video: video.path, progress: torrentWasAdded.progress, subs: allSubs });
     }
   } catch (error) {
     returnJSON({ req, res, next, code: 400, status:  'error', message: 'Unexpected error' });
