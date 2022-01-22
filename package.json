@@ -22,6 +22,7 @@
     "nodemon": "^2.0.15",
     "opensubtitles-api": "^5.1.2",
     "parse-torrent": "^9.1.4",
+    "torrent-stream": "^1.2.1",
     "webtorrent": "^1.5.8",
     "wrtc": "^0.4.7"
   }
