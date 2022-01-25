@@ -7,6 +7,7 @@ const OpenSubtitles = new OS({
     useragent: 'Popcorn Time NodeJS',
     username: '',
     password: '',
+    ssl: true
 });
 
 const app = express();
