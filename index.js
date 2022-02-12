@@ -17,6 +17,7 @@ const OpenSubtitles = new OS({
 
 const app = express();
 const port = 8080;
+app.use(express.static(__dirname + 'public'));
 
 const returnJSON = ({req, res, next, code, status, message, ...args}) => {
   res.status(code);
