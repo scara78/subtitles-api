@@ -30,7 +30,6 @@ app.use(cors());
 app.get('/subs/movie/:id', async (req, res, next) => {
   try {
     const { id: imdbid } = req.params;
-    console.log(imdbid)
     const subs = await OpenSubtitles.search({ imdbid, gzip: true });
     returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Subtitles obtained', subs });
   } catch (error) {
