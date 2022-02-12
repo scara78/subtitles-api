@@ -64,20 +64,20 @@ app.get('/subs/testing/:id', async (req, res, next) => {
         })
      });
   });
-    Object.keys(subs).forEach((sub => {
-      request({
-        url: subs[sub].url,
-        encoding: null
-    }, (error, response, data) => {
-      console.log(data)
-        if (error) throw error;
-        unzip(data, (error, buffer) => {
-            if (error) throw error;
-            const subtitle_content = buffer.toString(subs[sub].encoding);
-            console.log('Subtitle content:', subtitle_content);
-        });
-    });
-    }))
+    // Object.keys(subs).forEach((sub => {
+    //   request({
+    //     url: subs[sub].url,
+    //     encoding: null
+    // }, (error, response, data) => {
+    //   console.log(data)
+    //     if (error) throw error;
+    //     unzip(data, (error, buffer) => {
+    //         if (error) throw error;
+    //         const subtitle_content = buffer.toString(subs[sub].encoding);
+    //         console.log('Subtitle content:', subtitle_content);
+    //     });
+    // });
+    // }))
   } catch (error) {
     console.log(error)
     returnJSON({ req, res, next, code: 400, status:  'error', message: 'Unexpected error' });
