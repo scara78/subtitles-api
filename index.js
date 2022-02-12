@@ -52,9 +52,6 @@ const returnFinalSubs = ({ req, res, next, imdbid, subs }) => {
             ...subs[lang],
             vtt: `https://bitflix-subs.herokuapp.com/${imdbid}-${lang}-vtt.vtt`
           }};
-          if (fs.existsSync(srtFile)) {
-            fs.unlink(srtFile, () => {})
-          }
           if (index === Object.keys(subs).length - 1) {
             returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Subtitles obtained', subs: finalSubs });
           }
