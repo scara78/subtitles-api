@@ -5,6 +5,7 @@ import fs from 'fs';
 import srtToVtt from 'srt-to-vtt';
 import request from 'request';
 import { unzip } from 'zlib';
+import path from 'path';
 import OS from 'opensubtitles-api';
 
 const OpenSubtitles = new OS({
@@ -47,7 +48,7 @@ app.get('/subs/:id', async (req, res, next) => {
           fs.createReadStream(`${imdbid}-srt.srt`)
           .pipe(srtToVtt())
           .pipe(fs.createWriteStream(`${imdbid}-vtt.vtt`))
-          returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Subtitles obtained', sub: `/${imdbid}-vtt.vtt` });
+          returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Subtitles obtained', sub: path.resolve(`${imdbid}-vtt.vtt`) });
         })
      });
   });
