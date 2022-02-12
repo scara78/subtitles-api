@@ -34,65 +34,49 @@ app.use(express.json());
 
 app.use(cors());
 
-// TESTING
-
-app.get('/subs/testing/:id', async (req, res, next) => {
-  try {
-    const { id: imdbid } = req.params;
-    console.log(imdbid)
-    const subs = await OpenSubtitles.search({ imdbid, gzip: true });
+const returnFinalSubs = ({ req, res, next, imdbid, subs }) => {
+  let finalSubs = {};
+  Object.keys(subs).forEach((lang, index) => {
     request({
-      url: subs.es.utf8,
+      url: subs[lang].url,
       encoding: null
-  }, (error, response, data) => {
+    }, (error, response, data) => {
       if (error) throw error;
       unzip(data, (error, buffer) => {
-        if (error) throw error;
-        fs.writeFile(`./${imdbid}-srt.srt`, buffer, {}, async () => {
-          await fs.createReadStream(`./${imdbid}-srt.srt`)
+        const srtFile = `./${imdbid}-${lang}-srt.srt`;
+        fs.writeFile(srtFile, buffer, {}, async () => {
+          await fs.createReadStream(srtFile)
           .pipe(srtToVtt())
-          .pipe(fs.createWriteStream(`./${imdbid}-vtt.vtt`));
-          returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Subtitles obtained', sub: path.resolve(`./${imdbid}-vtt.vtt`) });
+          .pipe(fs.createWriteStream(`./${imdbid}-${lang}-vtt.vtt`));
+          finalSubs = {...finalSubs, [lang]: {
+            ...subs[lang],
+            vtt: `https://bitflix-subs.herokuapp.com/${imdbid}-${lang}-vtt.vtt`
+          }};
+          if (fs.existsSync(srtFile)) {
+            fs.unlink(srtFile, () => {})
+          }
+          if (index === Object.keys(subs).length - 1) {
+            returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Subtitles obtained', subs: finalSubs });
+          }
         })
-     });
+      });
+    });
   });
-  
-    // Object.keys(subs).forEach((sub => {
-    //   request({
-    //     url: subs[sub].url,
-    //     encoding: null
-    // }, (error, response, data) => {
-    //   console.log(data)
-    //     if (error) throw error;
-    //     unzip(data, (error, buffer) => {
-    //         if (error) throw error;
-    //         const subtitle_content = buffer.toString(subs[sub].encoding);
-    //         console.log('Subtitle content:', subtitle_content);
-    //     });
-    // });
-    // }))
-  } catch (error) {
-    console.log(error)
-    returnJSON({ req, res, next, code: 400, status:  'error', message: 'Unexpected error' });
-  }
-})
-
-
-// END TESTING
+}
 
 app.get('/subs/:id', async (req, res, next) => {
   try {
     const { id: imdbid } = req.params;
     const subs = await OpenSubtitles.search({ imdbid, gzip: true });
-    returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Subtitles obtained', subs });
+    returnFinalSubs({ req, res, next, imdbid, subs });
   } catch (error) {
     returnJSON({ req, res, next, code: 400, status:  'error', message: 'Unexpected error' });
   }
 })
 
-app.get('/subs/movie/:id', async (req, res, next) => {
+app.get('/subs/movie/:id/:lang', async (req, res, next) => {
   try {
-    const { id: imdbid } = req.params;
+    const { id: imdbid, lang = 'es' } = req.params;
     const subs = await OpenSubtitles.search({ imdbid, gzip: true });
     returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Subtitles obtained', subs });
   } catch (error) {
