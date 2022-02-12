@@ -65,7 +65,8 @@ app.get('/subs/:id', async (req, res, next) => {
   try {
     const { id: imdbid } = req.params;
     const subs = await OpenSubtitles.search({ imdbid, gzip: true });
-    returnFinalSubs({ req, res, next, imdbid, subs });
+    // returnFinalSubs({ req, res, next, imdbid, subs });
+    returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Subtitles obtained', subs });
   } catch (error) {
     returnJSON({ req, res, next, code: 400, status:  'error', message: 'Unexpected error' });
   }
