@@ -27,16 +27,21 @@ app.use(express.json());
 
 app.use(cors());
 
-app.get('/subs/:id', async (req, res, next) => {
+app.get('/subs/movie/:id', async (req, res, next) => {
   try {
-    const { id: query } = req.params;
-    const isImdbId = query.substring(0, 2) === 'tt';
-    let subs;
-    if (isImdbId) {
-      subs = await OpenSubtitles.search({ imdbid: query, gzip: true });
-    } else {
-      subs = await OpenSubtitles.search({ query, gzip: true });
-    }
+    const { id: imdbid } = req.params;
+    console.log(imdbid)
+    const subs = await OpenSubtitles.search({ imdbid, gzip: true });
+    returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Subtitles obtained', subs });
+  } catch (error) {
+    returnJSON({ req, res, next, code: 400, status:  'error', message: 'Unexpected error' });
+  }
+})
+
+app.get('/subs/tv/:query/:season/:episode', async (req, res, next) => {
+  try {
+    const { query, season, episode } = req.params;
+    const subs = await OpenSubtitles.search({ query, season, episode, gzip: true });
     returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Subtitles obtained', subs });
   } catch (error) {
     returnJSON({ req, res, next, code: 400, status:  'error', message: 'Unexpected error' });
