@@ -29,8 +29,14 @@ app.use(cors());
 
 app.get('/subs/:id', async (req, res, next) => {
   try {
-    const { id: imdbid } = req.params;
-    const subs = await OpenSubtitles.search({ imdbid, gzip: true });
+    const { id: query } = req.params;
+    const isImdbId = query.substring(0, 2) === 'tt';
+    let subs;
+    if (isImdbId) {
+      subs = await OpenSubtitles.search({ imdbid: query, gzip: true });
+    } else {
+      subs = await OpenSubtitles.search({ query, gzip: true });
+    }
     returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Subtitles obtained', subs });
   } catch (error) {
     returnJSON({ req, res, next, code: 400, status:  'error', message: 'Unexpected error' });
