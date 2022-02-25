@@ -22,6 +22,11 @@ app.use(express.static(path.join(__dirname, './')));
 
 const API_URL = `https://bitflix-subs.herokuapp.com`;
 
+app.use(cors({
+  "origin": "*",
+  "methods": "GET,HEAD,PUT,PATCH,POST,DELETE",
+}));
+
 const returnJSON = ({req, res, next, code, status, message, ...args}) => {
   res.status(code);
   res.json({
@@ -33,8 +38,6 @@ const returnJSON = ({req, res, next, code, status, message, ...args}) => {
 };
 
 app.use(express.json());
-
-app.use(cors());
 
 const returnFinalSubs = ({ req, res, next, imdbid, subs }) => {
   let finalSubs = {};
