@@ -20,6 +20,8 @@ const port = 8080;
 const __dirname = path.resolve();
 app.use(express.static(path.join(__dirname, './')));
 
+const API_URL = `https://bitflix-subs.herokuapp.com`;
+
 const returnJSON = ({req, res, next, code, status, message, ...args}) => {
   res.status(code);
   res.json({
@@ -50,7 +52,7 @@ const returnFinalSubs = ({ req, res, next, imdbid, subs }) => {
           .pipe(fs.createWriteStream(`./${imdbid}-${lang}-vtt.vtt`));
           finalSubs = {...finalSubs, [lang]: {
             ...subs[lang],
-            vtt: `https://bitflix-subs.herokuapp.com/${imdbid}-${lang}-vtt.vtt`
+            vtt: `${API_URL}/${imdbid}-${lang}-vtt.vtt`
           }};
           if (index === Object.keys(subs).length - 1) {
             returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Subtitles obtained', subs: finalSubs });
@@ -65,18 +67,17 @@ app.get('/subs/:id', async (req, res, next) => {
   try {
     const { id: imdbid } = req.params;
     const subs = await OpenSubtitles.search({ imdbid, gzip: true });
-    // returnFinalSubs({ req, res, next, imdbid, subs });
     returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Subtitles obtained', subs });
   } catch (error) {
     returnJSON({ req, res, next, code: 400, status:  'error', message: 'Unexpected error' });
   }
 })
 
-app.get('/subs/movie/:id/:lang', async (req, res, next) => {
+app.get('/subs/movie/:id', async (req, res, next) => {
   try {
-    const { id: imdbid, lang = 'es' } = req.params;
+    const { id: imdbid } = req.params;
     const subs = await OpenSubtitles.search({ imdbid, gzip: true });
-    returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Subtitles obtained', subs });
+    returnFinalSubs({ req, res, next, imdbid, subs });
   } catch (error) {
     returnJSON({ req, res, next, code: 400, status:  'error', message: 'Unexpected error' });
   }
@@ -86,12 +87,12 @@ app.get('/subs/tv/:query/:season/:episode', async (req, res, next) => {
   try {
     const { query, season, episode } = req.params;
     const subs = await OpenSubtitles.search({ query, season, episode, gzip: true });
-    returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Subtitles obtained', subs });
+    returnFinalSubs({ req, res, next, imdbid: `${query}-S${season}-E${episode}`, subs });
   } catch (error) {
     returnJSON({ req, res, next, code: 400, status:  'error', message: 'Unexpected error' });
   }
 })
 
 app.listen(process.env.PORT || port, () => {
-  console.log(`Bitflix API listening at http://localhost:${port}`);
+  console.log(`Subtitles API for Bitflix listening at http://localhost:${port}`);
 });
