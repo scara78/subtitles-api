@@ -25,14 +25,6 @@ app.use(express.static(path.join(__dirname, './')));
 
 const API_URL = `https://bitflix-subs.herokuapp.com`;
 
-// app.use(function (req, res, next) {
-//   //Enabling CORS
-//   res.header("Access-Control-Allow-Origin", "*");
-//   res.header("Access-Control-Allow-Methods", "GET,HEAD,OPTIONS,POST,PUT");
-//   res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept, x-client-key, x-client-token x-client-secret, Authorization");
-//     next();
-//   });
-
 const returnJSON = ({req, res, next, code, status, message, ...args}) => {
   res.status(code);
   res.json({
@@ -45,9 +37,9 @@ const returnJSON = ({req, res, next, code, status, message, ...args}) => {
 
 app.use(express.json());
 
-const returnFinalSubs = ({ req, res, next, imdbid, subs }) => {
+const returnFinalSubs = async ({ req, res, next, imdbid, subs }) => {
   let finalSubs = {};
-  Object.keys(subs).forEach((lang, index) => {
+  Object.keys(await subs).forEach((lang, index) => {
     request({
       url: subs[lang].url,
       encoding: null
@@ -86,7 +78,7 @@ app.get('/subs/movie/:id', async (req, res, next) => {
   try {
     const { id: imdbid } = req.params;
     const subs = await OpenSubtitles.search({ imdbid, gzip: true });
-    returnFinalSubs({ req, res, next, imdbid, subs });
+    returnFinalSubs({ req, res, next, imdbid, subs: await subs });
   } catch (error) {
     returnJSON({ req, res, next, code: 400, status:  'error', message: 'Unexpected error' });
   }
@@ -96,7 +88,7 @@ app.get('/subs/tv/:query/:season/:episode', async (req, res, next) => {
   try {
     const { query, season, episode } = req.params;
     const subs = await OpenSubtitles.search({ query, season, episode, gzip: true });
-    returnFinalSubs({ req, res, next, imdbid: `${query}-S${season}-E${episode}`, subs });
+    returnFinalSubs({ req, res, next, imdbid: `${query}-S${season}-E${episode}`, subs: await subs });
   } catch (error) {
     returnJSON({ req, res, next, code: 400, status:  'error', message: 'Unexpected error' });
   }
