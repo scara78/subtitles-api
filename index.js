@@ -17,20 +17,21 @@ const OpenSubtitles = new OS({
 
 const app = express();
 const port = 8080;
+
+app.use(cors());
+
 const __dirname = path.resolve();
 app.use(express.static(path.join(__dirname, './')));
 
 const API_URL = `https://bitflix-subs.herokuapp.com`;
 
-app.use(cors());
-
-app.use(function (req, res, next) {
-  //Enabling CORS
-  res.header("Access-Control-Allow-Origin", "*");
-  res.header("Access-Control-Allow-Methods", "GET,HEAD,OPTIONS,POST,PUT");
-  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept, x-client-key, x-client-token x-client-secret, Authorization");
-    next();
-  });
+// app.use(function (req, res, next) {
+//   //Enabling CORS
+//   res.header("Access-Control-Allow-Origin", "*");
+//   res.header("Access-Control-Allow-Methods", "GET,HEAD,OPTIONS,POST,PUT");
+//   res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept, x-client-key, x-client-token x-client-secret, Authorization");
+//     next();
+//   });
 
 const returnJSON = ({req, res, next, code, status, message, ...args}) => {
   res.status(code);
