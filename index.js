@@ -84,11 +84,11 @@ app.get('/subs/movie/:id', async (req, res, next) => {
   }
 })
 
-app.get('/subs/tv/:query/:season/:episode', async (req, res, next) => {
+app.get('/subs/tv/:id/:season/:episode', async (req, res, next) => {
   try {
-    const { query, season, episode } = req.params;
-    const subs = await OpenSubtitles.search({ query, season, episode, gzip: true });
-    returnFinalSubs({ req, res, next, imdbid: `${query}-S${season}-E${episode}`, subs: await subs });
+    const { id: imdbid, season, episode } = req.params;
+    const subs = await OpenSubtitles.search({ imdbid, season, episode, gzip: true });
+    returnFinalSubs({ req, res, next, imdbid: `${imdbid}-S${season}-E${episode}`, subs: await subs });
   } catch (error) {
     returnJSON({ req, res, next, code: 400, status:  'error', message: 'Unexpected error' });
   }
