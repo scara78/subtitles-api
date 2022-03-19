@@ -1,0 +1,3005 @@
+﻿1
+00:00:01,002 --> 00:00:02,045
+Detta har hänt...
+
+2
+00:00:02,128 --> 00:00:04,005
+<i>Det jag tänker berätta är topphemligt.</i>
+
+3
+00:00:06,758 --> 00:00:08,301
+Hej. Tyrell Wellick.
+
+4
+00:00:08,551 --> 00:00:10,637
+Vill du ta de här tillsammans då? Rena Molly.
+
+5
+00:00:10,720 --> 00:00:11,763
+<i>Nej, Shayla.</i>
+
+6
+00:00:12,013 --> 00:00:13,093
+Jag behöver dig på Allsafe.
+
+7
+00:00:13,139 --> 00:00:14,641
+<i>Jävlar, de är inne på nätverket.</i>
+
+8
+00:00:14,724 --> 00:00:16,309
+<i>Här är det. "fsociety."</i>
+
+9
+00:00:16,393 --> 00:00:18,353
+<i>De säger åt mig att lämna det här.</i>
+
+10
+00:00:20,438 --> 00:00:22,190
+- Vem är du?
+- Du borde komma med mig.
+
+11
+00:00:22,273 --> 00:00:23,775
+<i>Ja, sån är Darlene.</i>
+
+12
+00:00:23,858 --> 00:00:26,152
+<i>Du ska ändra på .dat-filen.</i>
+
+13
+00:00:26,277 --> 00:00:27,570
+Sätt dit Colbys IP-adress.
+
+14
+00:00:27,737 --> 00:00:31,741
+<i>Gör du det, har du satt världens största
+revolution nånsin i rörelse.</i>
+
+15
+00:00:35,245 --> 00:00:36,663
+<i>Källor har bekräftat</i>
+
+16
+00:00:36,746 --> 00:00:38,915
+<i>att hackarna var, delvis,
+knutna till Colbys terminal.</i>
+
+17
+00:00:38,998 --> 00:00:40,583
+<i>Sir, gå in i bilen.</i>
+
+18
+00:00:47,132 --> 00:00:48,758
+<i>Bonsoir,</i> Elliot.
+
+19
+00:00:50,000 --> 00:00:56,074
+Annonsera din produkt eller ditt märke här
+kontakta www.OpenSubtitles.org idag
+
+20
+00:01:12,240 --> 00:01:14,701
+"Med en pistol kan man råna en bank,"
+
+21
+00:01:14,784 --> 00:01:17,662
+"men med en bank
+kan man råna hela världen."
+
+22
+00:01:18,913 --> 00:01:21,249
+Det är ett lite fånigt uttryck.
+
+23
+00:01:21,332 --> 00:01:24,294
+Lite förenklat, men...
+
+24
+00:01:24,377 --> 00:01:25,420
+Jag gillar det
+
+25
+00:01:25,587 --> 00:01:27,547
+av samma anledning folk ogillar det,
+
+26
+00:01:27,630 --> 00:01:31,926
+för det betyder att makten tillhör
+de som tar den.
+
+27
+00:01:32,969 --> 00:01:35,638
+Inget att göra med hårt arbete och ambition
+
+28
+00:01:35,722 --> 00:01:38,767
+eller rätt kvalifikationer.
+
+29
+00:01:38,850 --> 00:01:43,062
+Det som krävs är viljan att ta för sig.
+
+30
+00:01:44,689 --> 00:01:46,733
+Förlåt att jag hämtade hit dig så här.
+
+31
+00:01:46,816 --> 00:01:50,278
+Det vi gör kanske är olagligt rent tekniskt,
+
+32
+00:01:50,361 --> 00:01:54,657
+därför har jag bjudit in 11 irriterande jurister.
+
+33
+00:01:57,535 --> 00:01:59,329
+Elliot Alderson...
+
+34
+00:02:00,830 --> 00:02:02,832
+Jag vill erbjuda dig
+
+35
+00:02:03,416 --> 00:02:06,711
+en tjänst här på Evil Corp.
+
+36
+00:02:08,213 --> 00:02:11,341
+Som chef för IT-säkerhet.
+
+37
+00:02:12,550 --> 00:02:14,803
+Det är inte officiellt
+
+38
+00:02:14,886 --> 00:02:18,890
+eftersom vi inte får konkurrera
+med din arbetsgivare, Allsafe.
+
+39
+00:02:19,641 --> 00:02:21,726
+Men om du gör det på eget bevåg...
+
+40
+00:02:22,060 --> 00:02:23,686
+När du gör det här
+
+41
+00:02:23,770 --> 00:02:26,773
+kommer du att vara
+multimiljonär inom fem år.
+
+42
+00:02:28,316 --> 00:02:29,484
+Vad sägs?
+
+43
+00:02:39,786 --> 00:02:41,037
+Kan jag...
+
+44
+00:02:42,872 --> 00:02:44,040
+Kan jag tänka på saken?
+
+45
+00:02:50,129 --> 00:02:52,257
+Mina herrar, lämna oss ifred.
+
+46
+00:02:52,799 --> 00:02:54,050
+Ja. Tack.
+
+47
+00:03:13,987 --> 00:03:15,238
+Visste du
+
+48
+00:03:16,155 --> 00:03:19,492
+att Evil Corp just gjort mig
+till interimschef för IT-avdelningen.
+
+49
+00:03:20,451 --> 00:03:23,204
+Det kommer snart bli officiellt.
+
+50
+00:03:23,288 --> 00:03:26,624
+Jag kommer bli
+företagets yngsta chef någonsin.
+
+51
+00:03:28,543 --> 00:03:31,504
+Jag borde leta rätt på de där hackarna
+och tacka dem.
+
+52
+00:03:32,630 --> 00:03:34,757
+På ett sätt är det...
+
+53
+00:03:34,841 --> 00:03:36,426
+Hur säger man?
+
+54
+00:03:37,302 --> 00:03:39,095
+En lycklig slump? Eller hur?
+
+55
+00:03:56,487 --> 00:03:59,699
+Om några månader
+
+56
+00:04:00,700 --> 00:04:04,996
+kommer vi bygga om hela nätverket
+och förstärka säkerhetsprotokollen.
+
+57
+00:04:05,079 --> 00:04:07,290
+Vi kommer sköta allt internt,
+
+58
+00:04:07,999 --> 00:04:11,127
+vilket innebär att alla våra leverantörer,
+inklusive Allsafe,
+
+59
+00:04:11,210 --> 00:04:12,670
+kommer få sparken.
+
+60
+00:04:13,004 --> 00:04:16,299
+Det är ingen hemlighet
+att när Allsafe förlorar oss som kund,
+
+61
+00:04:16,382 --> 00:04:18,092
+är de körda.
+
+62
+00:04:18,176 --> 00:04:22,305
+När det sker vill jag att du ska vara
+där du hör hemma.
+
+63
+00:04:22,388 --> 00:04:23,890
+Här hos mig.
+
+64
+00:04:24,223 --> 00:04:26,935
+Du står inför ett viktigt val, Elliot.
+
+65
+00:04:28,811 --> 00:04:32,857
+Du borde känna till alla fakta
+innan du fattar ett beslut.
+
+66
+00:04:45,078 --> 00:04:47,205
+Jag tror jag trivs där jag är.
+
+67
+00:05:12,397 --> 00:05:14,357
+Jag ville i alla fall fråga.
+
+68
+00:05:57,608 --> 00:06:00,069
+Här är mr Wellicks nummer.
+
+69
+00:06:00,445 --> 00:06:02,572
+Du kan kalla mig mr X.
+
+70
+00:06:05,950 --> 00:06:08,286
+Har du aldrig sett <i>JFK?</i>
+
+71
+00:06:08,953 --> 00:06:10,538
+Oliver Stone-filmen?
+
+72
+00:06:12,040 --> 00:06:14,125
+Helt ärligt, det är pinsamt.
+
+73
+00:06:14,417 --> 00:06:16,044
+Gör dig själv en tjänst och se den.
+
+74
+00:06:16,586 --> 00:06:18,212
+Och betala, för guds skull.
+
+75
+00:06:18,296 --> 00:06:20,715
+Tills vidare kan du kalla mig mr Sutherland.
+
+76
+00:06:20,965 --> 00:06:23,426
+Säg till när du fattat ett beslut.
+
+77
+00:06:24,385 --> 00:06:26,262
+Vi finns i närheten.
+
+78
+00:06:36,731 --> 00:06:38,900
+- Gud.
+- Ska vi bestämma en dag?
+
+79
+00:06:38,983 --> 00:06:40,234
+- Nej.
+- Senare.
+
+80
+00:06:40,318 --> 00:06:41,486
+Tack för allt, jag måste gå.
+
+81
+00:06:41,652 --> 00:06:42,904
+- Får jag komma in?
+- Nej.
+
+82
+00:06:42,987 --> 00:06:45,239
+- Får jag komma in?
+- Sluta
+
+83
+00:06:45,323 --> 00:06:47,658
+- Jag följer med upp.
+- Nej, det gör du inte.
+
+84
+00:06:47,742 --> 00:06:49,327
+En annan gång. Jag måste dra.
+
+85
+00:06:49,452 --> 00:06:50,661
+Lägg av.
+
+86
+00:06:56,000 --> 00:06:58,002
+- Är allt lugnt?
+- Ja, han är bara ett äckel.
+
+87
+00:06:58,336 --> 00:07:00,588
+Jag hatar när ens arbetsgivare
+inte fattar vinken.
+
+88
+00:07:06,844 --> 00:07:08,679
+Är ditt element trasigt?
+
+89
+00:07:08,763 --> 00:07:11,516
+För det är typ 1000 grader varmt
+i min lägenhet.
+
+90
+00:07:12,850 --> 00:07:15,520
+Hur är det? Du verkar nere.
+
+91
+00:07:18,147 --> 00:07:20,691
+När vi ändå är här, kan jag fylla på förrådet?
+
+92
+00:07:20,775 --> 00:07:23,194
+Är det inte lite tidigt?
+
+93
+00:07:23,319 --> 00:07:25,613
+Jag frångår schemat lite.
+
+94
+00:07:25,696 --> 00:07:28,699
+Trodde aldrig den dan skulle komma,
+herr torrboll,
+
+95
+00:07:28,783 --> 00:07:30,326
+men visst.
+
+96
+00:07:31,702 --> 00:07:34,288
+Skit, jag har slut på de andra.
+
+97
+00:07:34,372 --> 00:07:36,707
+Bara morfin. Det räcker.
+
+98
+00:07:37,125 --> 00:07:39,544
+Nej, jag lovade dig att aldrig ge de här
+
+99
+00:07:39,669 --> 00:07:41,003
+utan Suboxone.
+
+100
+00:07:42,213 --> 00:07:44,215
+- Shayla.
+- Nej, Elliot.
+
+101
+00:07:44,674 --> 00:07:48,386
+Ett löfte är ett löfte. Sånt är viktigt för mig.
+
+102
+00:07:53,224 --> 00:07:55,560
+Herregud.
+
+103
+00:07:55,643 --> 00:07:57,812
+Okej, men du måste lova att bara ta lite
+
+104
+00:07:57,895 --> 00:07:59,647
+tills jag har din avgiftningsmedicin.
+
+105
+00:07:59,730 --> 00:08:01,482
+Jag letar rätt på Fernando senare.
+
+106
+00:08:03,317 --> 00:08:04,735
+Du måste lova.
+
+107
+00:08:08,072 --> 00:08:09,490
+Jag lovar.
+
+108
+00:08:20,084 --> 00:08:21,586
+<i>Hallå där.</i>
+
+109
+00:08:21,669 --> 00:08:23,838
+<i>Trodde du att jag glömt dig?</i>
+
+110
+00:08:23,921 --> 00:08:25,756
+<i>Tro mig, jag behöver dig mer än nånsin.</i>
+
+111
+00:08:30,178 --> 00:08:32,180
+<i>Vi måste sätta igång och jobba.</i>
+
+112
+00:08:32,263 --> 00:08:35,433
+<i>Att hacka Tyrell Wellick
+var lättare än man kunde tro.</i>
+
+113
+00:08:35,558 --> 00:08:36,684
+<i>Evil Corps mejlservrar</i>
+
+114
+00:08:36,767 --> 00:08:38,769
+<i>har inte blivit fixade sen Shellshock.</i>
+
+115
+00:08:38,895 --> 00:08:40,855
+<i>Han använder inte ens tvåstegsverifiering.</i>
+
+116
+00:08:40,938 --> 00:08:42,940
+<i>Lösenordet är fruns flicknamn</i>
+
+117
+00:08:43,024 --> 00:08:45,276
+<i>och Sveriges nationaldag, 6-6.</i>
+
+118
+00:08:46,110 --> 00:08:49,697
+<i>Det saknas en sexa från det uppenbara,
+men ändå, det är amatörmässigt.</i>
+
+119
+00:08:53,451 --> 00:08:55,369
+<i>De här mejlen...</i>
+
+120
+00:08:58,289 --> 00:09:01,542
+<i>Hans liv... det är trevligt, perfekt.</i>
+
+121
+00:09:01,626 --> 00:09:03,085
+<i>Det stämmer inte.</i>
+
+122
+00:09:04,378 --> 00:09:05,898
+<i>Visste han att jag tänkte hacka honom?</i>
+
+123
+00:09:08,799 --> 00:09:10,468
+<i>Lät han mig göra det?</i>
+
+124
+00:09:13,596 --> 00:09:16,307
+<i>Jag måste rensa spåren.</i>
+
+125
+00:10:10,444 --> 00:10:13,197
+<i>Jag vet, jag tar mer än jag borde.</i>
+
+126
+00:10:13,322 --> 00:10:16,450
+<i>Jag bryter mot mina regler,
+men jag har en dålig vecka.</i>
+
+127
+00:10:55,489 --> 00:10:56,741
+Kom igen.
+
+128
+00:11:00,870 --> 00:11:03,414
+Du måste...
+
+129
+00:11:03,539 --> 00:11:05,750
+Du måste skita här borta, okej?
+
+130
+00:11:08,502 --> 00:11:11,047
+Gör det du måste där, okej?
+
+131
+00:11:12,757 --> 00:11:13,841
+Du...
+
+132
+00:11:15,092 --> 00:11:18,387
+Du grejar det här.
+
+133
+00:11:46,040 --> 00:11:48,876
+<i>Terry Colby, IT-chef för...</i>
+
+134
+00:11:48,959 --> 00:11:51,379
+<i>Att Terry Colby gripits är allt folk tänker på.</i>
+
+135
+00:11:51,462 --> 00:11:54,131
+<i>Skärmen representerar
+våra tankar nuförtiden.</i>
+
+136
+00:11:55,549 --> 00:11:56,693
+Colbys gripande chockar IT-världen
+
+137
+00:11:56,717 --> 00:12:00,388
+<i>Hur ska jag kunna
+koncentrera mig på jobbet nu?</i>
+
+138
+00:12:00,471 --> 00:12:02,973
+<i>När kommer mr Robot kontakta mig igen?</i>
+
+139
+00:12:03,057 --> 00:12:04,892
+<i>Vad väntar han på?</i>
+
+140
+00:12:04,975 --> 00:12:08,396
+<i>Har jag förstört en människas liv
+utan anledning?</i>
+
+141
+00:12:08,479 --> 00:12:10,731
+Jag ska be personalchefen höja din lön.
+
+142
+00:12:10,815 --> 00:12:12,316
+- Snälla
+- Nej.
+
+143
+00:12:12,441 --> 00:12:13,984
+Ta emot löneförhöjningen.
+
+144
+00:12:14,151 --> 00:12:16,821
+Inte mycket,
+men det är allt jag kan åstadkomma just nu.
+
+145
+00:12:18,072 --> 00:12:19,115
+Elliot...
+
+146
+00:12:19,990 --> 00:12:21,826
+Du räddade företaget.
+
+147
+00:12:25,162 --> 00:12:26,330
+Säg...
+
+148
+00:12:28,958 --> 00:12:30,960
+Varför berättade du inte om .dat-filen?
+
+149
+00:12:32,461 --> 00:12:34,755
+Du kunde ha kommit in hit innan mötet
+
+150
+00:12:34,839 --> 00:12:36,590
+och berättat att du hittat något.
+
+151
+00:12:37,174 --> 00:12:40,678
+Jag tycker det är lite konstigt.
+
+152
+00:12:43,472 --> 00:12:45,766
+Jag visste inte vad jag hade hittat.
+
+153
+00:12:47,184 --> 00:12:49,019
+Det kunde ha varit en skräpfil.
+
+154
+00:12:49,145 --> 00:12:50,438
+Kom igen...
+
+155
+00:12:50,521 --> 00:12:51,772
+Du är aldrig säker på något
+
+156
+00:12:51,856 --> 00:12:54,275
+om du inte är spiksäker.
+
+157
+00:12:55,317 --> 00:12:57,361
+Du kanske inte känner mig så väl.
+
+158
+00:13:01,031 --> 00:13:02,450
+Hur som helst,
+
+159
+00:13:03,451 --> 00:13:07,037
+det är viktigt att du fortsätter jobba med det.
+
+160
+00:13:07,163 --> 00:13:09,874
+Vem vet vad fsociety-hackarna
+hittar på härnäst.
+
+161
+00:13:09,957 --> 00:13:10,958
+<i>Vad sa han?</i>
+
+162
+00:13:11,041 --> 00:13:13,544
+- Vad sa du?
+- Colbys medarbetare.
+
+163
+00:13:14,879 --> 00:13:17,131
+Vem vet vilka databasdumpar
+som kommer härnäst
+
+164
+00:13:17,214 --> 00:13:18,382
+och Evil Corp är...
+
+165
+00:13:18,466 --> 00:13:19,717
+Vad pratar du om?
+
+166
+00:13:20,885 --> 00:13:22,720
+Nu blir jag förvånad.
+
+167
+00:13:22,803 --> 00:13:24,555
+Du brukar ligga steget före.
+
+168
+00:13:25,055 --> 00:13:26,974
+De träffade mitt i prick under intrånget.
+
+169
+00:13:27,057 --> 00:13:30,186
+Terabytes med mejl och filer.
+
+170
+00:13:30,519 --> 00:13:33,814
+De hotar att läcka allt
+om inte FBI släpper Colby.
+
+171
+00:13:34,482 --> 00:13:36,692
+De publicerade den här videon i morse.
+
+172
+00:13:42,490 --> 00:13:44,408
+EVIL CORP-HACKNING EJ ÖVER
+
+173
+00:13:44,533 --> 00:13:47,828
+<i>Hej, Evil Corp. Vi är fsociety.</i>
+
+174
+00:13:47,912 --> 00:13:49,872
+<i>Vi har hållit ögonen på er i flera år.</i>
+
+175
+00:13:49,955 --> 00:13:51,999
+<i>Ert utnyttjande av fattiga,</i>
+
+176
+00:13:52,082 --> 00:13:53,834
+<i>hur ni korrumperar regeringar,</i>
+
+177
+00:13:53,918 --> 00:13:56,921
+<i>hur ni mörklägger mord på
+oskyldiga medborgare</i>
+
+178
+00:13:57,004 --> 00:13:59,006
+<i>en bart för profit.</i>
+
+179
+00:13:59,089 --> 00:14:02,551
+<i>Därför har vi på fsociety
+bestämt att ni måste dö.</i>
+
+180
+00:14:03,260 --> 00:14:06,847
+<i>Vi är elaka och fientliga.
+Vi kompromissar inte.</i>
+
+181
+00:14:06,931 --> 00:14:08,432
+<i>Vi är obevekliga.</i>
+
+182
+00:14:08,516 --> 00:14:12,102
+<i>Vi kommer inte sluta förrän vi har kapat</i>
+
+183
+00:14:12,186 --> 00:14:14,522
+<i>varje tentakel på er monsterkropp.</i>
+
+184
+00:14:14,605 --> 00:14:16,774
+<i>Men vi kan visa barmhärtighet.</i>
+
+185
+00:14:16,857 --> 00:14:19,360
+<i>Vår senaste hackning var sista varningen.</i>
+
+186
+00:14:19,443 --> 00:14:23,030
+<i>Uppfyll våra krav,
+så ska vi överväga att inte förgöra er.</i>
+
+187
+00:14:23,322 --> 00:14:27,618
+<i>För det första, släpp vår ledare Terry Colby
+från ert olagliga fängelse omgående.</i>
+
+188
+00:14:28,118 --> 00:14:31,247
+<i>För det andra, släpp världsbefolkningen</i>
+
+189
+00:14:31,330 --> 00:14:34,291
+<i>från era ännu mer olagliga skuldfällor.</i>
+
+190
+00:14:34,708 --> 00:14:37,169
+<i>För det tredje, upplös ert företag</i>
+
+191
+00:14:37,253 --> 00:14:41,048
+<i>och donera alla tillgångar
+till olika välgörenheter.</i>
+
+192
+00:14:41,131 --> 00:14:43,259
+<i>Vårt förslag är inte förhandlingsbart.</i>
+
+193
+00:14:43,342 --> 00:14:44,677
+<i>Folket inser</i>
+
+194
+00:14:44,760 --> 00:14:47,513
+<i>att de saknar valfrihet så länge ni finns.</i>
+
+195
+00:14:47,596 --> 00:14:49,223
+<i>Folket har vaknat</i>
+
+196
+00:14:49,306 --> 00:14:52,268
+<i>och de vägrar acceptera
+ert ekonomiska slaveri.</i>
+
+197
+00:14:52,601 --> 00:14:56,146
+<i>Uppfylla våra krav, annars dödar vi er.</i>
+
+198
+00:14:56,272 --> 00:14:57,982
+<i>Vi har varnat er.</i>
+
+199
+00:15:03,279 --> 00:15:04,530
+Spela upp det igen.
+
+200
+00:15:05,072 --> 00:15:07,866
+Hallå, jag har just släppt en ny skiva.
+
+201
+00:15:07,950 --> 00:15:10,995
+Snälla, köp min CD. Kostar bara 20 likes.
+
+202
+00:15:11,495 --> 00:15:13,497
+Ni kommer digga den, jag lovar.
+
+203
+00:15:14,206 --> 00:15:17,459
+CD:n är gratis om ni tweetar om den.
+Hjälp mig nå ut på sociala medier.
+
+204
+00:15:17,543 --> 00:15:19,128
+Säg: "Jag vill boka ett möte."
+
+205
+00:15:19,211 --> 00:15:21,255
+"Det är väldigt, väldigt..." Elliot!
+
+206
+00:15:21,505 --> 00:15:22,923
+Grattis, hördu.
+
+207
+00:15:23,007 --> 00:15:25,634
+Hela internet pratar om Allsafe tack vare dig.
+
+208
+00:15:25,718 --> 00:15:27,011
+Vi borde fira.
+
+209
+00:15:27,094 --> 00:15:29,930
+Vi har en rabattkod för fyra
+på Mortons på tisdag.
+
+210
+00:15:30,014 --> 00:15:32,266
+Det andra paret vi skulle gå med bangade.
+
+211
+00:15:32,349 --> 00:15:33,559
+Följ med, vet jag.
+
+212
+00:15:33,642 --> 00:15:35,769
+De har svingoda stekar.
+Det kostar 29,95 dollar...
+
+213
+00:15:35,853 --> 00:15:37,896
+- Jag tror inte Elliot...
+- Okej.
+
+214
+00:15:38,689 --> 00:15:40,566
+Okej? Toppen.
+
+215
+00:15:40,649 --> 00:15:43,110
+Ska vi fixa en dubbeldejt?
+
+216
+00:15:43,193 --> 00:15:44,403
+Du har ju flickvän.
+
+217
+00:15:44,653 --> 00:15:46,614
+Du skulle ju inte nämna det, Ollie.
+
+218
+00:15:47,031 --> 00:15:48,198
+Elliot har inget emot det.
+
+219
+00:15:48,282 --> 00:15:50,868
+Visst, okej. Jag måste dra.
+
+220
+00:15:51,535 --> 00:15:54,371
+Min granne klagar på att hunden skäller.
+
+221
+00:16:00,336 --> 00:16:02,046
+Sen när har han en hund?
+
+222
+00:16:02,129 --> 00:16:04,506
+Vilket vackert par.
+
+223
+00:16:04,590 --> 00:16:07,134
+Min nya skiva är ute. Gillar ni rap, hip-hop?
+
+224
+00:16:07,217 --> 00:16:11,472
+Det här är ren poesi.
+Din tjej kommer gilla det, jag lovar.
+
+225
+00:16:11,555 --> 00:16:13,766
+Kom igen kompis,
+du har stått här i två veckor.
+
+226
+00:16:13,849 --> 00:16:16,101
+Jag tar en om du lämnar oss ifred.
+
+227
+00:16:16,560 --> 00:16:18,103
+Tack, tack.
+
+228
+00:16:18,187 --> 00:16:20,648
+Jag kommer bara tweeta
+om jag gillar den, okej?
+
+229
+00:16:20,731 --> 00:16:22,483
+Jag har 48 följare, men det är på uppgång.
+
+230
+00:16:22,566 --> 00:16:24,193
+- Visst.
+- Några viktiga typer där så...
+
+231
+00:16:24,276 --> 00:16:25,402
+Jag hajar.
+
+232
+00:16:25,486 --> 00:16:26,570
+- Visst.
+- Då så.
+
+233
+00:16:26,654 --> 00:16:27,738
+Jag uppskattar det.
+
+234
+00:16:27,821 --> 00:16:28,906
+- Ha en bra dag.
+- Du med.
+
+235
+00:16:28,989 --> 00:16:30,282
+Tack. Lyssna på andra spåret.
+
+236
+00:16:30,366 --> 00:16:31,909
+Visst, andra spåret.
+
+237
+00:16:32,993 --> 00:16:36,955
+<i>Det här var aldrig en del av planen.
+Databasdumpar? Släppa Terry Colby?</i>
+
+238
+00:16:37,039 --> 00:16:38,832
+<i>Jag fattar ingenting.</i>
+
+239
+00:16:38,916 --> 00:16:42,836
+<i>Måste kapa banden med fsociety.
+Måste bli fri.</i>
+
+240
+00:16:42,920 --> 00:16:44,755
+<i>Sjukskriva mig och ligga lågt ett litet...</i>
+
+241
+00:17:00,521 --> 00:17:03,232
+Gud! Jag är naken, idiot!
+
+242
+00:17:03,732 --> 00:17:05,526
+Stirra inte!
+
+243
+00:17:05,609 --> 00:17:07,277
+Vad tusan gör du i min dusch?
+
+244
+00:17:07,361 --> 00:17:09,279
+Jag väntade på dig.
+
+245
+00:17:09,363 --> 00:17:11,156
+Du skulle ha kommit igår kväll. Glömde du?
+
+246
+00:17:11,699 --> 00:17:13,117
+Komma vart?
+
+247
+00:17:13,450 --> 00:17:14,952
+Det är lugnt, det är senarelagt.
+
+248
+00:17:21,709 --> 00:17:23,752
+Jag lånar dina kläder.
+
+249
+00:17:24,128 --> 00:17:26,296
+Min klänning har spermafläckar på sig.
+
+250
+00:17:28,757 --> 00:17:32,136
+Lugn, jag skojar bara.
+
+251
+00:17:32,219 --> 00:17:35,180
+Mina kläder är i tvätten.
+Jag lånar det här så länge.
+
+252
+00:17:36,598 --> 00:17:40,144
+Förresten sket din hund i sängen.
+
+253
+00:17:40,894 --> 00:17:42,938
+Du måste rasta henne.
+
+254
+00:17:43,981 --> 00:17:46,233
+Ta hand om Flipper en stund.
+
+255
+00:17:47,067 --> 00:17:49,236
+Hon behöver rastas.
+
+256
+00:17:49,737 --> 00:17:51,029
+Hon skiter överallt.
+
+257
+00:17:51,155 --> 00:17:53,574
+Det är klart hon behöver rastas.
+Hon är en hund.
+
+258
+00:17:53,657 --> 00:17:56,285
+Kom igen,
+jag vill köpa yoghurtglass på vägen.
+
+259
+00:17:58,495 --> 00:18:00,372
+Ses senare.
+
+260
+00:18:01,415 --> 00:18:03,015
+- Nästa gång är det din tur.
+- Verkligen.
+
+261
+00:18:16,013 --> 00:18:17,264
+Hur visste du var jag bor?
+
+262
+00:18:18,140 --> 00:18:19,892
+Varför skulle jag inte veta det?
+
+263
+00:18:20,893 --> 00:18:22,519
+Jag vet inte var du bor.
+
+264
+00:18:25,564 --> 00:18:26,690
+Tja.
+
+265
+00:18:27,566 --> 00:18:30,694
+Jag bor ingenstans för tillfället.
+
+266
+00:18:31,653 --> 00:18:34,782
+Idioten jag dejtade friade till mig, sjukt va?
+
+267
+00:18:35,365 --> 00:18:37,034
+Vilken skitstövel.
+
+268
+00:18:38,118 --> 00:18:40,871
+Hur som helst, vi hade ett stort gräl...
+
+269
+00:18:41,413 --> 00:18:45,042
+<i>Vad tusan håller jag på med?
+Hon är helt utflippad.</i>
+
+270
+00:18:45,125 --> 00:18:47,169
+<i>Jag måste berätta allt för Gideon.</i>
+
+271
+00:18:47,252 --> 00:18:49,797
+<i>Han kommer att förstå.
+Han vet vad man ska göra.</i>
+
+272
+00:18:49,880 --> 00:18:52,257
+Det kvittar. Han kommer vilja bli ihop igen.
+
+273
+00:18:52,341 --> 00:18:56,470
+Han måste komma över allt nonsens
+med "evig kärlek".
+
+274
+00:18:56,553 --> 00:19:00,891
+Jag lämnar honom ifred ett tag
+så kommer han sansa sig.
+
+275
+00:19:00,974 --> 00:19:02,351
+<i>Se upp för dörrarna...</i>
+
+276
+00:19:02,434 --> 00:19:04,061
+Det är vår grej.
+
+277
+00:19:04,144 --> 00:19:05,187
+Snabbt!
+
+278
+00:19:15,405 --> 00:19:16,824
+<i>Ser hon dem också?</i>
+
+279
+00:19:16,907 --> 00:19:18,242
+Vad är det?
+
+280
+00:19:18,325 --> 00:19:20,244
+Jag gillar att vara på alerten.
+
+281
+00:19:22,454 --> 00:19:25,999
+På tal om det,
+en av de mest irriterande sakerna...
+
+282
+00:19:26,083 --> 00:19:29,002
+<i>Men vad gör Tyrell om han får reda på det?</i>
+
+283
+00:19:29,920 --> 00:19:34,424
+<i>Det finns inget scenario där jag inte dör
+eller hamnar i fängelse.</i>
+
+284
+00:19:35,133 --> 00:19:38,470
+Jag ville ha en sköldpadda, och han sa nej...
+
+285
+00:19:39,221 --> 00:19:41,056
+Jag behöver sova hos dig ett par nätter.
+
+286
+00:19:41,139 --> 00:19:42,641
+Det är lugnt, va?
+
+287
+00:19:43,517 --> 00:19:44,935
+Seriöst?
+
+288
+00:19:45,018 --> 00:19:47,020
+Okej då, jag sover hos Mobleys.
+
+289
+00:19:47,104 --> 00:19:48,939
+Gillar ändå inte hundar.
+
+290
+00:19:49,022 --> 00:19:51,233
+Speciellt inte såna som skiter i sängen.
+
+291
+00:19:51,316 --> 00:19:53,277
+Hur kan du bo så där?
+
+292
+00:19:53,360 --> 00:19:55,153
+Hur kan du gå och lägga dig när du vet...
+
+293
+00:19:55,237 --> 00:19:58,156
+<i>Jag skulle kunna vandra rätt in i en fälla.</i>
+
+294
+00:19:58,240 --> 00:20:00,450
+<i>De kanske dödar mig
+i samma sekund jag går in dit.</i>
+
+295
+00:20:00,534 --> 00:20:03,829
+Kom igen. Vi har viktiga saker att greja.
+
+296
+00:20:04,454 --> 00:20:05,831
+Stora planer.
+
+297
+00:20:14,631 --> 00:20:17,050
+Hedersgästen. Buga och bocka.
+
+298
+00:20:21,513 --> 00:20:23,098
+Jävla ankor.
+
+299
+00:20:25,559 --> 00:20:27,185
+Hallå där!
+
+300
+00:20:27,269 --> 00:20:29,229
+Vad... förlåt, kompis.
+
+301
+00:20:29,313 --> 00:20:30,564
+Okej.
+
+302
+00:20:30,647 --> 00:20:32,900
+Snyggt jobbat.
+
+303
+00:20:32,983 --> 00:20:34,276
+Verkligen häftigt.
+
+304
+00:20:34,359 --> 00:20:35,527
+Snyggt.
+
+305
+00:20:35,652 --> 00:20:36,778
+- Riktigt snyggt.
+- Då så.
+
+306
+00:20:37,154 --> 00:20:39,323
+Nu när vi har rövslickat tillräckligt,
+
+307
+00:20:39,990 --> 00:20:41,909
+kan vi få höra planen?
+
+308
+00:20:41,992 --> 00:20:43,744
+Hur går det med Steel Mountain?
+
+309
+00:20:43,827 --> 00:20:46,580
+Om jag inte tar miste så är linorna inte
+100 % säkra än
+
+310
+00:20:46,663 --> 00:20:48,665
+och så har vi Colby-grejen.
+
+311
+00:20:48,790 --> 00:20:50,334
+Seriöst? Det har gått flera veckor.
+
+312
+00:20:50,417 --> 00:20:53,003
+Om vi lämnat några spår
+hade de hittat oss nu.
+
+313
+00:20:53,086 --> 00:20:55,255
+Det är grönt, chefen, jag lovar.
+
+314
+00:20:55,547 --> 00:20:57,716
+- Tack.
+- Jag menar...
+
+315
+00:20:58,008 --> 00:20:59,968
+Om du vill kan Romero och jag kolla...
+
+316
+00:21:00,052 --> 00:21:02,346
+Toppen! Det gillar jag.
+
+317
+00:21:02,429 --> 00:21:04,848
+Jag sitter här och samlar tankarna.
+
+318
+00:21:15,025 --> 00:21:16,193
+Vad är det för fel på henne?
+
+319
+00:21:16,818 --> 00:21:20,197
+Hon är en komplicerad kvinna,
+som de flesta hackare. Eller hur?
+
+320
+00:21:20,697 --> 00:21:23,033
+Hon kom till min lägenhet.
+
+321
+00:21:23,116 --> 00:21:24,451
+Hur vet hon var jag bor?
+
+322
+00:21:24,534 --> 00:21:25,953
+Grubbla inte över henne.
+
+323
+00:21:26,036 --> 00:21:28,205
+Det vore som att hamna i en evig snedtripp.
+
+324
+00:21:28,288 --> 00:21:30,958
+Fokusera istället på nästa steg i projektet.
+
+325
+00:21:31,041 --> 00:21:33,168
+Comet, naturgasverket nära Albany?
+
+326
+00:21:36,838 --> 00:21:38,382
+Vi kommer spränga det.
+
+327
+00:21:39,841 --> 00:21:41,635
+Varför skulle ni spränga...
+
+328
+00:21:42,552 --> 00:21:44,554
+Comet ligger bredvid Steel Mountain.
+
+329
+00:21:44,638 --> 00:21:46,098
+Vilket, som du vet,
+
+330
+00:21:46,181 --> 00:21:50,477
+är datalagringsanläggningen
+för alla stora börsnoterade företag,
+
+331
+00:21:50,560 --> 00:21:51,770
+inklusive vår favorit...
+
+332
+00:21:51,853 --> 00:21:53,438
+- Evil Corp.
+- Bingo!
+
+333
+00:21:55,190 --> 00:21:57,234
+Ni tänker förstöra deras säkerhetskopior.
+
+334
+00:21:58,193 --> 00:22:00,195
+De kommer vara på sin vakt för sånt.
+
+335
+00:22:00,278 --> 00:22:01,822
+De har höjt säkerheten sen attacken.
+
+336
+00:22:01,905 --> 00:22:04,282
+Jag trodde de fångat hackaren. Eller?
+
+337
+00:22:04,366 --> 00:22:05,742
+Nej, det har de inte.
+
+338
+00:22:06,410 --> 00:22:08,495
+- Tyrell Wellick vet.
+- Vad de vill att han ska veta!
+
+339
+00:22:08,578 --> 00:22:10,831
+Han är en robot som alla andra.
+
+340
+00:22:10,914 --> 00:22:13,125
+Förresten kommer företaget
+vara upptagna med
+
+341
+00:22:13,208 --> 00:22:15,210
+alla databasdumpar som väntar dem,
+
+342
+00:22:15,293 --> 00:22:16,670
+och vi har några riktiga godingar.
+
+343
+00:22:16,753 --> 00:22:20,507
+Hederlig gammal rasism, sexism
+och fascism från chefshåll.
+
+344
+00:22:20,590 --> 00:22:22,551
+De kommer ha "-ismer"
+
+345
+00:22:22,634 --> 00:22:24,094
+upp över öronen.
+
+346
+00:22:24,261 --> 00:22:26,388
+Att be om Colbys frigivning var genialt.
+
+347
+00:22:26,471 --> 00:22:29,599
+Då är strålkastarna riktade mot honom.
+
+348
+00:22:29,683 --> 00:22:31,685
+Det var Trentons fiffiga idé.
+
+349
+00:22:32,436 --> 00:22:34,646
+Hon ser oskyldig ut, men passa dig.
+
+350
+00:22:34,730 --> 00:22:36,940
+Hon har en del Allahu Akbar i sig.
+
+351
+00:22:37,441 --> 00:22:41,445
+Medan det pågår,
+ska du använda Allsafes säkerhetspass
+
+352
+00:22:41,528 --> 00:22:44,031
+för att hacka Comet PLC, öka pressen,
+
+353
+00:22:44,114 --> 00:22:45,657
+skapa en gasexplosion
+
+354
+00:22:45,741 --> 00:22:49,411
+som spränger Steel Mountain,
+Evil Corps själ, i småbitar.
+
+355
+00:22:54,875 --> 00:22:56,460
+Vet de om allt det här?
+
+356
+00:22:57,085 --> 00:22:58,462
+Du hör det först.
+
+357
+00:23:01,757 --> 00:23:02,966
+Och arbetarna?
+
+358
+00:23:03,800 --> 00:23:06,970
+Folk som bor nära gasverket, kommer de dö?
+
+359
+00:23:07,429 --> 00:23:08,555
+Vi ger dem en förvarning.
+
+360
+00:23:08,638 --> 00:23:10,158
+Sätter igång några larm. Det är lugnt.
+
+361
+00:23:14,227 --> 00:23:15,979
+Ni tänker spränga en gasledning.
+
+362
+00:23:16,063 --> 00:23:18,315
+Världen är en farlig plats, Elliot,
+
+363
+00:23:18,398 --> 00:23:19,900
+inte på grund av de som gör skada,
+
+364
+00:23:19,983 --> 00:23:22,069
+utan på grund av de som inte ingriper.
+
+365
+00:23:22,152 --> 00:23:23,487
+Det är krig.
+
+366
+00:23:23,570 --> 00:23:25,238
+Folk kommer dö. Sånt är livet.
+
+367
+00:23:26,865 --> 00:23:29,284
+När vi sprängt gasledningen
+
+368
+00:23:29,367 --> 00:23:32,120
+kommer Darlenes virus sätta fart
+inne i dataanläggningen,
+
+369
+00:23:32,204 --> 00:23:34,790
+det du hjälpte oss att installera,
+tack så mycket.
+
+370
+00:23:36,291 --> 00:23:38,794
+De andra säkerhetskopiorna
+på anläggningen i Kina...
+
+371
+00:23:39,711 --> 00:23:41,630
+Dark Army kommer hjälpa oss med dem.
+
+372
+00:23:42,214 --> 00:23:44,508
+Dark Army? Varför?
+
+373
+00:23:45,217 --> 00:23:46,927
+De hackar för vem som helst,
+
+374
+00:23:47,010 --> 00:23:48,678
+terrorister, Nordkorea, Iran, Ryssland.
+
+375
+00:23:48,762 --> 00:23:52,099
+Så de hatar amerikansk kapitalism
+lika mycket som alla andra.
+
+376
+00:23:54,059 --> 00:23:55,685
+Sist men inte minst,
+
+377
+00:23:56,770 --> 00:23:58,396
+Steel Mountain.
+
+378
+00:23:58,647 --> 00:24:00,649
+Hackarens dilemma.
+
+379
+00:24:00,774 --> 00:24:03,652
+Vad gör man
+när man vill förstöra en massa data
+
+380
+00:24:03,735 --> 00:24:05,278
+som är helt utom räckhåll?
+
+381
+00:24:11,660 --> 00:24:13,286
+Jag tänker inte döda någon.
+
+382
+00:24:16,081 --> 00:24:18,041
+Säg mig, Elliot.
+
+383
+00:24:18,125 --> 00:24:20,085
+Är du en etta eller nolla?
+
+384
+00:24:21,711 --> 00:24:23,547
+Det måste du fråga dig själv.
+
+385
+00:24:23,630 --> 00:24:25,590
+Ja eller nej?
+
+386
+00:24:25,674 --> 00:24:27,592
+Tänker du handla eller inte?
+
+387
+00:24:31,429 --> 00:24:35,976
+Du har stirrat på skärmen för länge.
+
+388
+00:24:36,810 --> 00:24:38,186
+Livet är inte så svartvitt.
+
+389
+00:24:38,270 --> 00:24:39,688
+Är det inte?
+
+390
+00:24:40,188 --> 00:24:42,482
+Det finns en gråskala,
+
+391
+00:24:42,566 --> 00:24:44,526
+men i slutändan
+
+392
+00:24:44,609 --> 00:24:48,405
+finns det en etta eller nolla bakom varje val.
+
+393
+00:24:48,530 --> 00:24:51,116
+Antingen gör man något
+eller så låter man bli.
+
+394
+00:24:51,700 --> 00:24:54,369
+Om du går härifrån
+så väljer du att inte handla,
+
+395
+00:24:54,452 --> 00:24:57,622
+att säga nej, och då kommer du inte tillbaka.
+
+396
+00:24:58,290 --> 00:25:01,293
+Om du går härifrån är du ute ur leken.
+
+397
+00:25:01,543 --> 00:25:03,587
+Då är du en nolla.
+
+398
+00:25:04,296 --> 00:25:08,592
+Om du stannar och vill förändra världen
+
+399
+00:25:09,801 --> 00:25:11,136
+så säger du ja.
+
+400
+00:25:11,428 --> 00:25:13,722
+Då är du en etta.
+
+401
+00:25:14,472 --> 00:25:16,391
+Så frågan är...
+
+402
+00:25:16,474 --> 00:25:19,227
+Är du en etta eller nolla?
+
+403
+00:25:19,895 --> 00:25:22,022
+En oskyldig man är inburad på grund av mig.
+
+404
+00:25:22,105 --> 00:25:23,690
+Låt oss inte lura oss själva.
+
+405
+00:25:23,773 --> 00:25:25,692
+Det här har inget att göra med Colby.
+
+406
+00:25:30,155 --> 00:25:32,199
+Inte ens om min revolution.
+
+407
+00:25:32,908 --> 00:25:34,784
+För dig handlar det om mer.
+
+408
+00:25:34,868 --> 00:25:37,579
+Det handlar om hur de jävlarna
+sakta dödade din far
+
+409
+00:25:37,662 --> 00:25:39,414
+och du önskar att han gjort något.
+
+410
+00:25:39,497 --> 00:25:42,125
+Han gjorde inget, för han var en nolla,
+
+411
+00:25:42,209 --> 00:25:44,544
+precis som du just nu.
+
+412
+00:25:46,963 --> 00:25:48,256
+Dra åt helvete.
+
+413
+00:25:51,801 --> 00:25:53,053
+Sticker du igen?
+
+414
+00:25:56,848 --> 00:25:59,726
+Jag tänker inte döda nån.
+
+415
+00:26:01,686 --> 00:26:04,105
+Du kan inte sticka från det här.
+
+416
+00:26:04,189 --> 00:26:05,774
+Vi gör det med eller utan dig,
+
+417
+00:26:05,857 --> 00:26:07,943
+men du är redan delaktig!
+
+418
+00:26:08,026 --> 00:26:11,029
+Inte ens din dumma luvtröja kan skydda dig!
+
+419
+00:26:11,112 --> 00:26:12,447
+<i>Det var ett misstag.</i>
+
+420
+00:26:12,530 --> 00:26:14,449
+<i>Jag måste anmäla dem. Ska jag?</i>
+
+421
+00:26:14,532 --> 00:26:16,701
+<i>Kommer jag få skit för det? Hon har rätt.</i>
+
+422
+00:26:16,826 --> 00:26:19,412
+<i>Jag är medskyldig nu. Nej, vi är.</i>
+
+423
+00:26:19,496 --> 00:26:22,666
+<i>Vi är båda insyltade,
+så kom på en lösning nu.</i>
+
+424
+00:26:27,754 --> 00:26:28,964
+Shayla?
+
+425
+00:26:35,053 --> 00:26:36,137
+Hallå, Shayla.
+
+426
+00:26:36,888 --> 00:26:38,139
+Hallå, kompis.
+
+427
+00:26:39,349 --> 00:26:41,559
+Behöver du hjälp med något?
+
+428
+00:26:43,728 --> 00:26:46,898
+Jag letar efter Shayla.
+
+429
+00:26:47,732 --> 00:26:50,694
+Hon tar ett bad.
+
+430
+00:26:56,366 --> 00:26:58,994
+- Shayla.
+- Hon är snart klar.
+
+431
+00:27:01,413 --> 00:27:03,164
+Sitt ner och vänta om du vill.
+
+432
+00:27:04,541 --> 00:27:07,168
+Vi borde kolla att hon är okej.
+
+433
+00:27:09,879 --> 00:27:12,716
+Du är kul. Jag gillar dig.
+
+434
+00:27:13,883 --> 00:27:17,762
+Var inte oartig. Sitt ner.
+
+435
+00:27:36,740 --> 00:27:38,325
+Just ja,
+
+436
+00:27:42,203 --> 00:27:43,621
+du tar bara de här.
+
+437
+00:27:44,289 --> 00:27:47,625
+Den enda jag vet som
+tar avgiftningsmedicin medan han drogar.
+
+438
+00:27:48,251 --> 00:27:50,003
+Smart.
+
+439
+00:27:50,545 --> 00:27:53,381
+Intalar säkert dig själv
+att du inte är knarkare.
+
+440
+00:27:54,883 --> 00:27:57,802
+Fan, jag glömde presentera mig.
+
+441
+00:27:58,219 --> 00:27:59,304
+<i>Jag heter Fernando Vera...</i>
+
+442
+00:27:59,387 --> 00:28:01,389
+<i>Shaylas langare. En av de värsta typerna</i>
+
+443
+00:28:01,473 --> 00:28:03,224
+<i>jag hackat. Hans lösenord?</i>
+
+444
+00:28:03,516 --> 00:28:04,976
+<i>"Sug-kuk-69-69."</i>
+
+445
+00:28:05,060 --> 00:28:06,144
+MEJL!
+Logga in - bigpapi6969
+
+446
+00:28:06,227 --> 00:28:09,773
+<i>Förutom alla pengar han spenderar på porr</i>
+
+447
+00:28:09,856 --> 00:28:13,360
+<i>gör han alla knarkköp via mejl, chatt, Twitter.</i>
+
+448
+00:28:13,443 --> 00:28:16,196
+<i>Det är otroligt att polisen
+inte har fångat honom än.</i>
+
+449
+00:28:16,279 --> 00:28:20,116
+<i>Med en halv hjärncell
+hade de knäckt hans gängs kod,</i>
+
+450
+00:28:20,200 --> 00:28:21,826
+<i>om den ens kan kallas så.</i>
+
+451
+00:28:22,327 --> 00:28:24,704
+<i>Efter ett ha matchat hans tvveets</i>
+
+452
+00:28:24,788 --> 00:28:26,206
+<i>med relevanta nyhetsartiklar</i>
+
+453
+00:28:26,289 --> 00:28:29,542
+<i>listade jag ut att "kaka" och "klick"
+betyder pistoler.</i>
+
+454
+00:28:29,918 --> 00:28:32,337
+<i>"Mat", "snäckor", och "gas" betyder kulor.</i>
+
+455
+00:28:32,754 --> 00:28:35,507
+<i>Och slutligen, "Vagga till sömns tidigt."</i>
+
+456
+00:28:35,590 --> 00:28:37,884
+<i>Jag har inte kunnat koppla det
+till ett mord än,</i>
+
+457
+00:28:37,967 --> 00:28:41,304
+<i>men pistoler plus kulor
+kan bara betyda en sak.</i>
+
+458
+00:28:41,763 --> 00:28:45,266
+<i>Jag har tänkt på att ange honom,
+men han är Shaylas langare.</i>
+
+459
+00:28:45,517 --> 00:28:47,685
+<i>Om jag tjallar förlorar jag mina droger.</i>
+
+460
+00:28:47,769 --> 00:28:50,730
+<i>Just nu har jag inte råd med det.</i>
+
+461
+00:28:50,897 --> 00:28:52,273
+Fattar du?
+
+462
+00:28:54,442 --> 00:28:57,821
+Hur som helst
+har jag inget att bekymra mig för.
+
+463
+00:28:59,239 --> 00:29:00,782
+Bara här för en leverans.
+
+464
+00:29:02,700 --> 00:29:04,077
+Vad heter du förresten?
+
+465
+00:29:06,246 --> 00:29:07,455
+Elliot.
+
+466
+00:29:07,997 --> 00:29:09,290
+Vad betyder det?
+
+467
+00:29:10,959 --> 00:29:12,710
+Har du aldrig googlat det?
+
+468
+00:29:12,794 --> 00:29:14,045
+Det måste du göra.
+
+469
+00:29:14,129 --> 00:29:15,713
+Namnets betydelse är viktigt.
+
+470
+00:29:16,423 --> 00:29:17,715
+Hon klarar sig!
+
+471
+00:29:17,966 --> 00:29:19,259
+Hon klarar sig.
+
+472
+00:29:23,555 --> 00:29:24,806
+Lita på mig.
+
+473
+00:29:25,557 --> 00:29:27,267
+Fixade det själv.
+
+474
+00:29:32,981 --> 00:29:35,108
+Du påminner mig om mig själv som yngre.
+
+475
+00:29:35,233 --> 00:29:36,651
+Deprimerad och butter...
+
+476
+00:29:37,318 --> 00:29:39,988
+Jag försökte ta mitt liv ett par gånger.
+
+477
+00:29:41,322 --> 00:29:43,199
+Lyckades inget vidare.
+
+478
+00:29:43,533 --> 00:29:45,618
+Inget vidare på biologi.
+
+479
+00:29:46,786 --> 00:29:49,664
+Jag hatade mig själv. Gör det fortfarande.
+
+480
+00:29:50,081 --> 00:29:52,792
+Trodde länge att det var en svaghet.
+
+481
+00:29:59,507 --> 00:30:01,843
+Tills jag insåg att det var min styrka.
+
+482
+00:30:03,094 --> 00:30:06,014
+Folk tror att de vet vad hat är för något.
+
+483
+00:30:06,181 --> 00:30:10,518
+Det vet man inte förrän man hatar sig själv.
+
+484
+00:30:10,602 --> 00:30:14,189
+Hatar sig själv på riktigt.
+
+485
+00:30:16,649 --> 00:30:17,942
+Det är styrka.
+
+486
+00:30:29,829 --> 00:30:31,414
+Du är inte rädd för mig, va?
+
+487
+00:30:35,668 --> 00:30:37,045
+Bra.
+
+488
+00:30:37,462 --> 00:30:40,173
+Då blev jag inte kompis med dig i onödan.
+
+489
+00:30:42,634 --> 00:30:44,552
+Du behöver inte de där, va?
+
+490
+00:30:44,969 --> 00:30:47,931
+En som du klarar av lite abstinens.
+
+491
+00:30:49,641 --> 00:30:53,311
+Jag träffade Shayla tack vare dig.
+
+492
+00:30:54,062 --> 00:30:57,106
+Jag är den enda snubben i stan som har allt,
+
+493
+00:30:57,190 --> 00:30:59,609
+inklusive ditt älskade Suboxone.
+
+494
+00:30:59,692 --> 00:31:03,363
+Så jag borde tacka dig.
+
+495
+00:31:03,613 --> 00:31:05,198
+Du sammanförde oss.
+
+496
+00:31:05,365 --> 00:31:11,162
+Att våra omloppsbanor korsats
+har sammanfört mig med mitt livs kärlek.
+
+497
+00:31:11,621 --> 00:31:14,457
+Att vi är här...
+
+498
+00:31:15,333 --> 00:31:16,584
+Det är
+
+499
+00:31:17,544 --> 00:31:19,087
+ett vackert Sammanträffande.
+
+500
+00:31:20,046 --> 00:31:25,051
+Men tjejen därinne är min.
+
+501
+00:31:26,135 --> 00:31:28,096
+Jag skulle vara förlorad utan henne.
+
+502
+00:31:28,763 --> 00:31:32,517
+Jag vet inte vad ni hade för förhållande,
+
+503
+00:31:32,600 --> 00:31:35,603
+men nu när vi är vänner
+
+504
+00:31:37,063 --> 00:31:39,190
+litar jag på att du respekterar mina gränser.
+
+505
+00:31:39,941 --> 00:31:41,192
+Fattar du?
+
+506
+00:31:51,786 --> 00:31:54,080
+En snubbe gav mig samma blick
+tidigare idag.
+
+507
+00:31:54,914 --> 00:31:56,791
+Jag kan bara säga,
+
+508
+00:31:56,874 --> 00:31:58,918
+ibland är det klokt att vara rädd,
+
+509
+00:32:01,629 --> 00:32:03,047
+och ibland dumt.
+
+510
+00:32:09,971 --> 00:32:11,055
+Shayla!
+
+511
+00:32:11,139 --> 00:32:13,224
+<i>Låsdyrkning. Hackarens favoritsport.</i>
+
+512
+00:32:13,308 --> 00:32:14,684
+<i>Den perfekta koden att knäcka,</i>
+
+513
+00:32:14,767 --> 00:32:18,730
+<i>för olikt datakoder
+så kan man känna när man löser den,</i>
+
+514
+00:32:18,813 --> 00:32:20,523
+<i>man kan se och höra det.</i>
+
+515
+00:32:27,155 --> 00:32:28,448
+Shayla.
+
+516
+00:32:31,159 --> 00:32:34,871
+Vakna.
+
+517
+00:32:39,375 --> 00:32:40,668
+Vad hände?
+
+518
+00:32:42,086 --> 00:32:43,546
+Mår du bra?
+
+519
+00:32:45,173 --> 00:32:46,966
+Varför var den där skitstöveln där?
+
+520
+00:32:47,175 --> 00:32:48,760
+Varför är jag i badkaret?
+
+521
+00:32:53,014 --> 00:32:54,098
+Jag vet inte.
+
+522
+00:32:54,974 --> 00:32:56,726
+Jag bad honom om dina tabletter.
+
+523
+00:32:56,809 --> 00:32:59,103
+Han kom hit. Vi rökte på lite.
+
+524
+00:33:01,314 --> 00:33:02,940
+Minns du om ni hade sex?
+
+525
+00:33:03,024 --> 00:33:04,317
+Va?
+
+526
+00:33:04,984 --> 00:33:06,069
+Nej.
+
+527
+00:33:06,319 --> 00:33:07,779
+<i>Men det gör han.</i>
+
+528
+00:33:07,862 --> 00:33:09,155
+Okej, dags att dra.
+
+529
+00:33:09,238 --> 00:33:10,573
+Ta din plånbok och...
+
+530
+00:33:10,657 --> 00:33:13,284
+Jag tänker inte gå någonstans, okej?
+
+531
+00:33:15,078 --> 00:33:16,245
+Vad menar du?
+
+532
+00:33:16,329 --> 00:33:18,122
+Ska du låta honom komma undan?
+
+533
+00:33:20,500 --> 00:33:21,626
+Gå inte tillbaka till honom.
+
+534
+00:33:21,709 --> 00:33:23,419
+Glöm mina tabletter. Hitta någon ny.
+
+535
+00:33:23,503 --> 00:33:24,712
+Det går inte.
+
+536
+00:33:29,175 --> 00:33:31,803
+Han säljer till mig för ett bra pris
+
+537
+00:33:32,387 --> 00:33:34,889
+och jag tjänar bra.
+
+538
+00:33:35,264 --> 00:33:38,559
+<i>Där har vi den igen,
+den osynliga handen som styr oss,</i>
+
+539
+00:33:38,643 --> 00:33:41,604
+<i>även om den knuffar oss över smärttröskeln.</i>
+
+540
+00:33:41,896 --> 00:33:43,481
+Han kommer inte sluta.
+
+541
+00:33:44,941 --> 00:33:46,317
+Tänk om han gör det igen.
+
+542
+00:33:47,026 --> 00:33:48,820
+Lova att du inte kommer göra något.
+
+543
+00:33:50,488 --> 00:33:52,198
+Jag menar allvar, Elliot.
+
+544
+00:33:52,407 --> 00:33:54,325
+Det finns inget du kan göra.
+
+545
+00:33:55,868 --> 00:33:57,453
+Jag har knappast något val.
+
+546
+00:33:59,831 --> 00:34:03,292
+Vill du sova här i natt?
+
+547
+00:34:08,548 --> 00:34:10,133
+<i>Val.</i>
+
+548
+00:34:10,299 --> 00:34:12,427
+<i>Mr Robot kanske har rätt.</i>
+
+549
+00:34:12,510 --> 00:34:14,387
+<i>Det är det det handlar om.</i>
+
+550
+00:34:14,470 --> 00:34:16,514
+<i>Livets "ja" och "nej".</i>
+
+551
+00:34:16,597 --> 00:34:19,892
+<i>Men väljer vi dem eller de oss?</i>
+
+552
+00:34:20,393 --> 00:34:21,853
+<i>Fernando Vera.</i>
+
+553
+00:34:21,936 --> 00:34:24,772
+<i>Om jag gör mig av med honom
+förlorar jag min langare.</i>
+
+554
+00:34:24,856 --> 00:34:26,482
+<i>Förlorar morfinet.</i>
+
+555
+00:34:26,566 --> 00:34:29,485
+<i>Och smärtan jag håller in kommer välla ut.</i>
+
+556
+00:34:30,111 --> 00:34:31,738
+<i>Jag kan hitta en ny langare,</i>
+
+557
+00:34:31,821 --> 00:34:34,824
+<i>men som Vera sa
+finns det ingen som säljer Suboxone.</i>
+
+558
+00:34:34,907 --> 00:34:37,493
+<i>Jag kan förfalska recept på nätet,</i>
+
+559
+00:34:37,577 --> 00:34:40,288
+<i>men läkemedelsföretagen
+skyddar sina produkter.</i>
+
+560
+00:34:40,371 --> 00:34:42,665
+<i>De flesta ställen tar bara emot pappersrecept.</i>
+
+561
+00:34:42,790 --> 00:34:45,293
+<i>Det är orealistiskt
+både att hämta ut dem lagligt</i>
+
+562
+00:34:45,376 --> 00:34:47,253
+<i>och att vara knarkare.</i>
+
+563
+00:34:47,336 --> 00:34:50,423
+<i>Så jag måste upphöra tvärt
+eller låta Vera finnas.</i>
+
+564
+00:34:51,299 --> 00:34:54,135
+<i>Jag vet vad du tänker, svaret är självklart.</i>
+
+565
+00:34:54,218 --> 00:34:58,347
+<i>Vera kanske har tafsat på Shayla innan,
+men nu gäller det våldtäkt.</i>
+
+566
+00:34:59,432 --> 00:35:01,809
+DJCulito Blu8 vaggad till sömns tidigt
+#sömntuta
+
+567
+00:35:02,351 --> 00:35:05,271
+<i>Precis som Shayla gav han mig inget val.</i>
+
+568
+00:35:05,813 --> 00:35:08,316
+<i>Han kan inte tillåtas existera.</i>
+
+569
+00:35:20,995 --> 00:35:23,289
+Vi kanske borde börja med hur du mår.
+
+570
+00:35:28,377 --> 00:35:29,670
+Inte bra.
+
+571
+00:35:31,172 --> 00:35:32,965
+Vad är det som inte är bra?
+
+572
+00:35:35,176 --> 00:35:36,511
+Allt.
+
+573
+00:35:38,346 --> 00:35:40,723
+Ge mig lite detaljer.
+
+574
+00:35:45,937 --> 00:35:49,315
+Hur vet vi om det är vi som styr?
+
+575
+00:35:51,359 --> 00:35:56,989
+Att vi inte bara gör det bästa
+av situationen vi befinner oss i.
+
+576
+00:35:57,573 --> 00:36:01,202
+Försöker konstant välja
+mellan två alternativ.
+
+577
+00:36:01,828 --> 00:36:04,372
+Som dina två tavlor i väntrummet.
+
+578
+00:36:05,665 --> 00:36:09,252
+Eller Cola och Pepsi.
+
+579
+00:36:10,127 --> 00:36:12,672
+McDonald's eller Burger King.
+
+580
+00:36:13,339 --> 00:36:16,467
+Hyundai eller Honda.
+
+581
+00:36:19,387 --> 00:36:21,305
+Fernando Vera
+Vänner - Följer-Kontakta
+
+582
+00:36:21,389 --> 00:36:24,016
+<i>Allt är precis lika suddigt.</i>
+
+583
+00:36:25,852 --> 00:36:27,270
+<i>Precis tillräckligt oskarpt.</i>
+
+584
+00:36:27,353 --> 00:36:28,513
+GÄNGMEDLEM MÖRDAD I CHINATOWN
+
+585
+00:36:28,896 --> 00:36:30,022
+<i>valfriheten är en illusion.</i>
+
+586
+00:36:30,106 --> 00:36:31,148
+ANMÄL BROTT ANONYMT
+
+587
+00:36:31,440 --> 00:36:34,485
+<i>De flesta kan inte ens välja sin egen</i>
+
+588
+00:36:34,569 --> 00:36:36,821
+<i>kabel-tv, gasleverantör, elbolag...</i>
+
+589
+00:36:36,904 --> 00:36:38,048
+Tack för att du gör New York säkert!
+
+590
+00:36:38,072 --> 00:36:41,742
+<i>Vattnet vi dricker, vår hälsoförsäkring...</i>
+
+591
+00:36:42,451 --> 00:36:44,203
+Men spelar det någon roll?
+
+592
+00:36:45,746 --> 00:36:48,791
+<i>Om vårt enda val är Blue Cross
+eller Blue Shield,</i>
+
+593
+00:36:48,875 --> 00:36:51,377
+<i>vad är det för jävla skillnad?</i>
+
+594
+00:36:56,841 --> 00:36:59,093
+<i>Är det inte samma sak?</i>
+
+595
+00:37:01,554 --> 00:37:06,559
+<i>Våra val är förbeställda</i>
+
+596
+00:37:07,435 --> 00:37:09,353
+för länge sen.
+
+597
+00:37:10,646 --> 00:37:13,900
+Det är tråkigt att du känner
+att du saknar kontroll.
+
+598
+00:37:15,860 --> 00:37:18,863
+Jag trodde jag gjorde något bra.
+
+599
+00:37:21,449 --> 00:37:24,785
+Jag varmed i ett projekt.
+
+600
+00:37:25,828 --> 00:37:29,540
+Jag trodde jag skulle vara en del
+av något stort.
+
+601
+00:37:34,378 --> 00:37:35,588
+Och sen?
+
+602
+00:37:36,339 --> 00:37:37,548
+Sen
+
+603
+00:37:39,175 --> 00:37:43,638
+visade det sig vara ett misstag
+som allt annat.
+
+604
+00:37:44,347 --> 00:37:46,933
+Vad är poängen?
+
+605
+00:37:48,684 --> 00:37:51,562
+Man kan lika gärna göra ingenting alls.
+
+606
+00:37:52,313 --> 00:37:54,523
+Lika gärna göra ingenting alls.
+
+607
+00:37:56,108 --> 00:37:58,277
+Du har tagit upp det förut,
+
+608
+00:37:58,778 --> 00:38:01,072
+känslan av att sakna kontroll.
+
+609
+00:38:01,155 --> 00:38:02,448
+Minns du?
+
+610
+00:38:05,910 --> 00:38:08,079
+När vi pratade om din pappa.
+
+611
+00:38:08,663 --> 00:38:10,915
+Du sa att han valde att inte handla
+
+612
+00:38:10,998 --> 00:38:13,334
+när han drabbades av cancer.
+
+613
+00:38:13,960 --> 00:38:17,296
+Du sa att han kunde ha kämpat
+mot företaget som orsakade den.
+
+614
+00:38:17,380 --> 00:38:19,256
+Han kunde ha berättat för folk.
+
+615
+00:38:19,340 --> 00:38:22,218
+Han kunde ha sökt bättre vård.
+
+616
+00:38:22,551 --> 00:38:24,595
+Men han gjorde ingenting.
+
+617
+00:38:26,681 --> 00:38:30,476
+Din pappa kanske kände som du gör nu.
+
+618
+00:38:31,352 --> 00:38:34,563
+Som du sa, vad är poängen?
+
+619
+00:38:34,647 --> 00:38:39,652
+- Det är skillnad.
+- Skillnaden är att du har val, Elliot.
+
+620
+00:38:40,069 --> 00:38:43,197
+Där finns din styrka och kontroll.
+
+621
+00:38:43,280 --> 00:38:45,950
+Du behöver inte acceptera vad livet ger dig.
+
+622
+00:38:47,660 --> 00:38:49,203
+Kom igen.
+
+623
+00:38:49,328 --> 00:38:52,123
+Berätta vad som står på.
+
+624
+00:38:52,206 --> 00:38:54,583
+Jag kan inte hjälpa dig om du tiger.
+
+625
+00:38:54,709 --> 00:38:56,043
+Håll käften!
+
+626
+00:38:59,547 --> 00:39:00,965
+Håll käften!
+
+627
+00:39:03,718 --> 00:39:05,261
+Du har påsar under ögonen.
+
+628
+00:39:05,344 --> 00:39:07,430
+Du skriker, du är nervig.
+
+629
+00:39:07,513 --> 00:39:12,518
+Det verkar som du har halkat in i
+gamla hjulspår den senaste månaden.
+
+630
+00:39:14,603 --> 00:39:18,107
+Vad är det som står på?
+
+631
+00:39:22,903 --> 00:39:26,574
+CD/ DVD-brännare
+Kopierar: Fernando Vera
+
+632
+00:39:27,033 --> 00:39:29,160
+Fernando Vera - Radera
+
+633
+00:39:59,565 --> 00:40:02,610
+Värme-och ventilationsstyrning
+
+634
+00:40:16,999 --> 00:40:18,459
+Han svarar inte.
+
+635
+00:40:18,918 --> 00:40:22,296
+Vi får fråga honom imorgon.
+
+636
+00:40:22,379 --> 00:40:24,924
+Varje gång jag försöker spela upp
+eller spara den,
+
+637
+00:40:25,007 --> 00:40:28,469
+hänger sig datorn och spottar ut den igen.
+
+638
+00:40:29,804 --> 00:40:31,097
+Han mår inte bra.
+
+639
+00:40:31,680 --> 00:40:33,641
+Han betedde sig konstigt på jobbet idag.
+
+640
+00:40:33,724 --> 00:40:35,476
+Stella B - Kolla här NU! ;-)
+
+641
+00:40:39,688 --> 00:40:41,273
+Stella B
+Kom över ikväll...
+
+642
+00:40:45,402 --> 00:40:47,488
+- Sa du något, älskling?
+- Något är fel.
+
+643
+00:40:47,571 --> 00:40:48,715
+Ska försöka. ringer dig strax
+
+644
+00:40:48,739 --> 00:40:50,241
+Borde jag gå dit?
+
+645
+00:40:51,158 --> 00:40:53,994
+Och se hur han mår.
+
+646
+00:40:56,372 --> 00:40:58,624
+Det är löjligt.
+
+647
+00:41:00,084 --> 00:41:01,752
+Han har alltid varit konstig, inte sant?
+
+648
+00:41:01,836 --> 00:41:03,504
+Jag är orolig för honom.
+
+649
+00:41:08,425 --> 00:41:10,761
+Min kompis Fred från Arizona ringde.
+
+650
+00:41:10,845 --> 00:41:13,347
+Han vill ta en drink.
+
+651
+00:41:13,973 --> 00:41:15,558
+Blir inte så sen.
+
+652
+00:41:17,518 --> 00:41:18,811
+<i>Okej.</i>
+
+653
+00:42:01,854 --> 00:42:03,939
+vi är inne
+
+654
+00:42:30,507 --> 00:42:33,427
+"Djup passion, längtan,"
+
+655
+00:42:33,761 --> 00:42:37,556
+"de hade aldrig upplevt
+sån kärlek, sån närhet."
+
+656
+00:42:37,932 --> 00:42:39,266
+"Sån kemi."
+
+657
+00:42:40,976 --> 00:42:43,437
+Jag vet hur man kan göra det utan...
+
+658
+00:42:43,771 --> 00:42:44,939
+Sätt dig.
+
+659
+00:42:55,449 --> 00:42:58,369
+Man kan ta säkerhetskopiorna
+utan att spränga gasledningen.
+
+660
+00:42:58,452 --> 00:43:01,205
+Elliot, jag trodde att du
+var ett avslutat kapitel.
+
+661
+00:43:01,288 --> 00:43:02,957
+Du gick ju.
+
+662
+00:43:03,040 --> 00:43:04,250
+Ja...
+
+663
+00:43:04,333 --> 00:43:07,378
+Sa jag inte att om du gick,
+så är du inte med längre?
+
+664
+00:43:10,381 --> 00:43:11,590
+Jag har en bra plan.
+
+665
+00:43:11,674 --> 00:43:14,885
+Om du ska vara med igen
+måste vi komma överens om något.
+
+666
+00:43:14,969 --> 00:43:16,762
+Du måste betala din skuld.
+
+667
+00:43:16,845 --> 00:43:18,555
+För du gick.
+
+668
+00:43:18,639 --> 00:43:20,307
+Så du tror på skulder trots allt?
+
+669
+00:43:20,391 --> 00:43:22,559
+Ja, det gör jag.
+
+670
+00:43:22,643 --> 00:43:24,520
+Jag tror på att bli kvitt dem.
+
+671
+00:43:28,983 --> 00:43:30,442
+Vad vill du?
+
+672
+00:43:33,821 --> 00:43:35,990
+Berätta om din pappa.
+
+673
+00:43:37,324 --> 00:43:39,076
+Du kan inte hjärntvätta mig.
+
+674
+00:43:39,159 --> 00:43:41,245
+Ditt David Koresh-snack biter inte på mig.
+
+675
+00:43:41,328 --> 00:43:42,830
+Berätta hur han dog.
+
+676
+00:43:43,539 --> 00:43:44,623
+Varför?
+
+677
+00:43:44,707 --> 00:43:47,001
+Något säger mig att du redan kollat upp det.
+
+678
+00:43:47,084 --> 00:43:48,669
+Jag vill att du ska berätta.
+
+679
+00:43:55,926 --> 00:43:57,636
+Om Jag gör det,
+
+680
+00:43:58,178 --> 00:44:01,515
+kan vi gå tillbaka till Spelhallen
+och diskutera planen med resten?
+
+681
+00:44:16,280 --> 00:44:18,240
+Jag vet inte vad du vill höra.
+
+682
+00:44:19,116 --> 00:44:20,284
+Vi stod varandra nära.
+
+683
+00:44:20,367 --> 00:44:22,619
+Han var min bästa vän.
+
+684
+00:44:23,537 --> 00:44:25,831
+Han jobbade på Evil Corp hela sitt liv.
+
+685
+00:44:27,041 --> 00:44:29,877
+Han var en av deras bästa dataingenjörer.
+
+686
+00:44:30,794 --> 00:44:32,463
+Sen fick han plötsligt sparken.
+
+687
+00:44:32,546 --> 00:44:33,922
+Ingen visste varför.
+
+688
+00:44:34,882 --> 00:44:36,383
+En dag berättade han.
+
+689
+00:44:37,801 --> 00:44:39,261
+Han hade leukemi.
+
+690
+00:44:40,262 --> 00:44:43,640
+Bad mig lova att inte berätta för någon,
+särskilt inte min mamma.
+
+691
+00:44:45,142 --> 00:44:46,393
+Så jag sa inget.
+
+692
+00:44:46,935 --> 00:44:50,606
+Efter ett par månader blev han allt sjukare.
+
+693
+00:44:51,607 --> 00:44:53,400
+Till slut blev jag så orolig
+
+694
+00:44:55,444 --> 00:44:56,724
+att jag berättade för min mamma.
+
+695
+00:44:57,738 --> 00:45:00,532
+När han fick reda på det blev han arg,
+
+696
+00:45:00,991 --> 00:45:02,242
+skrek åt mig.
+
+697
+00:45:03,410 --> 00:45:05,788
+Jag försökte krama honom, be om förlåtelse,
+
+698
+00:45:05,871 --> 00:45:08,374
+men han knuffade bort mig.
+
+699
+00:45:08,457 --> 00:45:11,877
+Knuffade så hårt
+att jag föll baklänges ut genom fönstret.
+
+700
+00:45:11,960 --> 00:45:14,254
+Jag bröt armen.
+
+701
+00:45:15,339 --> 00:45:17,383
+Efter det pratade han aldrig mer med mig.
+
+702
+00:45:18,175 --> 00:45:20,052
+Kunde inte ens se på mig.
+
+703
+00:45:20,302 --> 00:45:22,054
+Inte ens natten han dog.
+
+704
+00:45:26,016 --> 00:45:27,226
+Var det allt?
+
+705
+00:45:42,366 --> 00:45:45,035
+Jag vet hur det är att förlora en förälder.
+
+706
+00:45:45,619 --> 00:45:46,995
+Det är hjärtslitande.
+
+707
+00:45:50,749 --> 00:45:52,668
+Tänkte du någonsin att han gjorde rätt?
+
+708
+00:45:54,837 --> 00:45:56,255
+Hur då?
+
+709
+00:45:56,338 --> 00:45:58,048
+Hur han skadade dig
+
+710
+00:45:59,425 --> 00:46:00,884
+för det du gjort mot honom.
+
+711
+00:46:00,968 --> 00:46:02,928
+Tänkte du att du förtjänade det?
+
+712
+00:46:03,303 --> 00:46:06,265
+Jag försökte bara hjälpa honom.
+
+713
+00:46:06,348 --> 00:46:07,641
+Du svek hans förtroende.
+
+714
+00:46:08,392 --> 00:46:10,060
+Jag var åtta år gammal...
+
+715
+00:46:15,732 --> 00:46:18,026
+Du höll inte ditt löfte.
+
+716
+00:46:18,050 --> 00:46:20,050
+Subrip by TomTen
+
+717
+00:47:00,944 --> 00:47:01,945
+Swedish
+
+717
+00:47:02,305 --> 00:48:02,901
+Rösta den här undertext på www.osdb.link/7j8g
+Hjälp andra användare att välja de bästa undertexter

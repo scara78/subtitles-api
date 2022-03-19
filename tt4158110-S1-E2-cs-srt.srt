@@ -1,0 +1,2634 @@
+1
+00:00:00,000 --> 00:00:02,479
+<i>- V minulém díle jste vidìli:
+- Povím ti teï nìco tajného.</i>
+
+2
+00:00:03,897 --> 00:00:05,397
+<i>Evil Corp.</i>
+
+3
+00:00:05,804 --> 00:00:09,810
+- Dobrı den. Tyrell Wellick.
+- Dáš si se mnou? Èistá gáòa.
+
+4
+00:00:09,812 --> 00:00:12,347
+- Ne, Shaylo.
+- Pøijï do AllSafe.
+
+5
+00:00:12,349 --> 00:00:15,468
+<i>Sakra, nabourali sí.
+To je ono. Fsociety.</i>
+
+6
+00:00:15,470 --> 00:00:17,303
+<i>Chtìjí, abych to tu nechal.</i>
+
+7
+00:00:19,366 --> 00:00:21,368
+- Kdo jste?
+- Mìl bys jít se mnou.
+
+8
+00:00:21,370 --> 00:00:23,069
+Tohle je Darlene.
+
+9
+00:00:23,071 --> 00:00:26,523
+Upravíš ten datovı log
+a dáš tam Colbyho IP adresu.
+
+10
+00:00:26,525 --> 00:00:30,953
+Udìláš to a uvedeš do pohybu
+tu nejvìtší revoluci v dìjinách.
+
+11
+00:00:34,086 --> 00:00:37,901
+<i>Podle zdrojù bylo hacknutí
+spojeno s Colbyho...</i>
+
+12
+00:00:37,903 --> 00:00:39,707
+Pane, nastupte si.
+
+13
+00:00:45,950 --> 00:00:47,554
+Bon soir, Elliote.
+
+14
+00:00:49,000 --> 00:00:55,074
+PoštovnéZDARMA.cz 
+nakupujte a prodávejte s námi
+
+15
+00:01:11,289 --> 00:01:13,935
+Dej mui zbraò
+a vyloupí banku,
+
+16
+00:01:13,937 --> 00:01:16,725
+ale dej mui banku
+a vyloupí celı svìt.
+
+17
+00:01:17,685 --> 00:01:24,382
+Pøijde mi to jako smìšné vyjádøení,
+trochu zjednodušené, ale líbí se mi,
+
+18
+00:01:24,599 --> 00:01:27,589
+a to z dùvodu,
+kvùli kterému se druhım nelíbí,
+
+19
+00:01:27,591 --> 00:01:31,384
+a sice proto, e moc patøí
+tìm, kteøí se jí zmocní.
+
+20
+00:01:31,867 --> 00:01:36,787
+ádná tvrdá døina, silné ambice
+ani zpùsobilost k tomu nepatøí.
+
+21
+00:01:37,844 --> 00:01:42,529
+To jediné, co je nezbytné,
+je právì ochota si to vzít.
+
+22
+00:01:43,549 --> 00:01:45,926
+Promiò, e jsem tì sem
+takhle pøivedl.
+
+23
+00:01:45,928 --> 00:01:48,982
+To, co dìláme,
+je technicky vzato nelegální,
+
+24
+00:01:49,305 --> 00:01:53,937
+proto je tu se mnou jedenáct
+našich nejotravnìjších advokátù.
+
+25
+00:01:56,450 --> 00:01:58,388
+Elliote Aldersone.
+
+26
+00:01:59,702 --> 00:02:01,769
+Rád bych ti nabídl
+
+27
+00:02:02,104 --> 00:02:06,421
+pozici v Evil Corpu.
+
+28
+00:02:07,266 --> 00:02:10,725
+Chci tì jako šéfa
+kyberbezpeènostní divize.
+
+29
+00:02:10,900 --> 00:02:14,008
+Ale nemohu ti to
+nabídnout oficiálnì,
+
+30
+00:02:14,010 --> 00:02:18,346
+protoe máme s AllSafe
+konkurenèní doloku.
+
+31
+00:02:18,569 --> 00:02:22,498
+Ale kdy se pro to
+rozhodneš z vlastní vùle,
+
+32
+00:02:22,713 --> 00:02:26,526
+do pìti let
+se staneš multimilionáøem.
+
+33
+00:02:27,096 --> 00:02:28,763
+Tak co ty na to?
+
+34
+00:02:38,536 --> 00:02:39,605
+Mohl bych...
+
+35
+00:02:41,694 --> 00:02:43,414
+Mohl bych si to rozmyslet?
+
+36
+00:02:48,921 --> 00:02:50,866
+Bìte prosím, pánové.
+
+37
+00:02:51,587 --> 00:02:53,997
+Ano, dìkuji. Ano, ano.
+
+38
+00:03:15,034 --> 00:03:18,857
+Evil Corp mì jmenoval
+doèasnım technickım øeditelem.
+
+39
+00:03:19,297 --> 00:03:21,811
+Zanedlouho to bude oficiální.
+
+40
+00:03:22,122 --> 00:03:26,180
+Stanu se nejmladším vedoucím
+v historii naší spoleènosti.
+
+41
+00:03:27,404 --> 00:03:30,785
+Mìl bych ty hackery najít
+u jen proto, abych jim podìkoval.
+
+42
+00:03:31,548 --> 00:03:33,463
+Pøijde mi to jako...
+
+43
+00:03:33,738 --> 00:03:35,484
+Jak se to jen øíká?
+
+44
+00:03:36,114 --> 00:03:38,691
+Taková šastná náhoda.
+e ano?
+
+45
+00:03:55,406 --> 00:03:59,065
+Do konce tohoto ètvrtletí
+
+46
+00:03:59,522 --> 00:04:03,864
+pøedìláme celou naši sí
+a upevníme bezpeènostní protokoly.
+
+47
+00:04:04,000 --> 00:04:06,183
+Vše budeme øešit internì,
+
+48
+00:04:06,937 --> 00:04:11,700
+všichni naši dodavatelé,
+i AllSafe, tedy budou propuštìni.
+
+49
+00:04:11,968 --> 00:04:16,576
+A není tajemstvím,
+e AllSafe poté pùjde ke dnu.
+
+50
+00:04:17,039 --> 00:04:21,081
+A jakmile k tomu dojde,
+chci, abys byl tam, kde máš bıt.
+
+51
+00:04:21,343 --> 00:04:23,083
+Tady se mnou.
+
+52
+00:04:23,085 --> 00:04:25,830
+Budeš teï muset uèinit
+dùleité rozhodnutí, Elliote.
+
+53
+00:04:27,613 --> 00:04:31,851
+Chtìl jsem jen, abys mìl jasno,
+ne uèiníš koneèné rozhodnutí.
+
+54
+00:04:43,732 --> 00:04:46,643
+Tam, kde jsem, jsem spokojenı.
+
+55
+00:05:11,235 --> 00:05:13,849
+No, zeptat jsem se musel.
+
+56
+00:05:33,773 --> 00:05:36,773
+<b><font color="#B00000">Mr. Robot</font></b>
+eps.1.1_ones-and-zer0es.mpeg
+
+57
+00:05:36,774 --> 00:05:39,774
+Pøeklad: <font color="#B00000">lukascoolarik</font>
+Korekce: <font color="#B00000">MountainLionet</font>
+
+58
+00:05:56,574 --> 00:05:59,378
+A se budete chtít spojit
+s panem Wellickem, zavolejte sem.
+
+59
+00:05:59,380 --> 00:06:01,396
+Pro vás jsem pan X.
+
+60
+00:06:04,903 --> 00:06:07,349
+Ale no tak,
+to jste nevidìl JFK?
+
+61
+00:06:07,922 --> 00:06:09,791
+Ten film s Oliverem Stonem?
+
+62
+00:06:10,845 --> 00:06:13,132
+Upøímnì vám øeknu,
+e je to ostuda, pane.
+
+63
+00:06:13,354 --> 00:06:17,072
+Udìláte dobøe, kdy si ho pustíte.
+A poctivì za nìj zaplate.
+
+64
+00:06:17,221 --> 00:06:20,154
+Mùete mi øíkat pan Sutherland.
+
+65
+00:06:20,156 --> 00:06:22,341
+A budete pøipravenı,
+neváhejte mì kontaktovat.
+
+66
+00:06:23,272 --> 00:06:25,172
+Budeme poblí.
+
+67
+00:06:36,698 --> 00:06:38,946
+- Domluvíme si rande.
+- To teda ne. - Na jindy.
+
+68
+00:06:38,948 --> 00:06:41,956
+- U musím. Fakt díky.
+- Pozveš mì k sobì? - Ne.
+
+69
+00:06:42,266 --> 00:06:44,605
+- Tak pozveš mì?
+- Ne, pøestaò.
+
+70
+00:06:44,607 --> 00:06:46,782
+- Jdu k tobì.
+- Ne, to teda nejdeš.
+
+71
+00:06:46,784 --> 00:06:49,544
+Nìkdy jindy, u musím. No tak.
+
+72
+00:06:54,625 --> 00:06:57,295
+- Všechno v pohodì?
+- Jo, to je jen jeden blbec.
+
+73
+00:06:57,297 --> 00:06:59,902
+Nesnáším, kdy si mùj
+zamìstnavatel neví rady.
+
+74
+00:07:05,585 --> 00:07:09,981
+Hele, nemáš nìco s radiátorem?
+V bytì mám horko jak v pekle.
+
+75
+00:07:11,689 --> 00:07:15,185
+Hej, jsi v pohodì?
+Vypadáš divnì.
+
+76
+00:07:17,142 --> 00:07:19,712
+Kdy u jsme tady,
+doplnila bys mi zásoby?
+
+77
+00:07:19,939 --> 00:07:24,617
+- Není na to trochu brzo?
+- Jsem trochu rozhozenı.
+
+78
+00:07:24,754 --> 00:07:29,698
+No to bych do pana Srovnanıho
+nikdy neøekla, ale dobøe, no.
+
+79
+00:07:30,663 --> 00:07:35,728
+- A jo, sakra, prášky mi došly.
+- To nic, staèí mi morfin.
+
+80
+00:07:36,071 --> 00:07:39,999
+Ne, slíbil jsi mi, e nebudeš brát,
+kdy nebudeš mít Suboxone.
+
+81
+00:07:41,065 --> 00:07:43,500
+- Shaylo.
+- Elliote, ne.
+
+82
+00:07:43,502 --> 00:07:47,720
+Sliby jsou dùleité,
+beru si je k srdci.
+
+83
+00:07:52,254 --> 00:07:54,020
+Boe.
+
+84
+00:07:54,533 --> 00:07:58,378
+Dobøe, ale slib mi, e to nepøeeneš,
+dokud ti nedonesu léky na absáky.
+
+85
+00:07:58,380 --> 00:08:00,641
+Sejdu se pak s Fernandem.
+
+86
+00:08:02,191 --> 00:08:03,780
+Musíš to øíct nahlas.
+
+87
+00:08:06,985 --> 00:08:08,423
+Slibuju.
+
+88
+00:08:19,034 --> 00:08:20,448
+<i>Nazdar.</i>
+
+89
+00:08:20,867 --> 00:08:23,012
+<i>No co, snad sis nemyslel,
+e jsem na tebe zapomnìl.</i>
+
+90
+00:08:23,014 --> 00:08:25,339
+<i>Vìø mi, e teï tì potøebuju
+víc ne kdy pøedtím.</i>
+
+91
+00:08:29,353 --> 00:08:31,150
+<i>Pustíme se do práce.</i>
+
+92
+00:08:31,487 --> 00:08:34,331
+<i>Jeden by øekl, e hacknout
+Tyrella Wellicka bude tìké, ale ne.</i>
+
+93
+00:08:34,333 --> 00:08:38,229
+<i>Mailové servery Evil Corpu
+jsou od bugu Shellshock netknuté.</i>
+
+94
+00:08:38,231 --> 00:08:40,110
+<i>Ani nepouívá
+dvoufázové ovìøování.</i>
+
+95
+00:08:40,112 --> 00:08:44,377
+<i>Jako heslo má dívèí pøíjmení manelky
+a švédskı den nezávislosti, 6. 6.</i>
+
+96
+00:08:45,102 --> 00:08:48,775
+<i>K tomu zjevnému jedna šestka chybí,
+ale poøád je to dost špatná práce.</i>
+
+97
+00:08:52,549 --> 00:08:54,168
+<i>Ty e-maily...</i>
+
+98
+00:08:57,561 --> 00:09:02,532
+<i>Má šastnı a dokonalı ivot.
+Vùbec to nedává smysl.</i>
+
+99
+00:09:03,208 --> 00:09:05,218
+<i>e by vìdìl, e ho hacknu?</i>
+
+100
+00:09:07,911 --> 00:09:09,358
+<i>e by mi to dovolil?</i>
+
+101
+00:09:12,648 --> 00:09:14,648
+<i>Musím všechno vymazat.</i>
+
+102
+00:10:09,466 --> 00:10:12,436
+<i>Já vím, já vím.
+Beru toho pøes míru.</i>
+
+103
+00:10:12,438 --> 00:10:16,093
+<i>Porušuju svoje pravidlo,
+ale tenhle tıden je dìs.</i>
+
+104
+00:10:54,399 --> 00:10:55,655
+No tak.
+
+105
+00:10:59,793 --> 00:11:02,516
+Hej. Tak dìlej.
+
+106
+00:11:02,518 --> 00:11:04,690
+Tady to ze sebe vytlaè.
+
+107
+00:11:07,460 --> 00:11:10,412
+Tak u se vykálej.
+
+108
+00:11:14,146 --> 00:11:17,852
+To zvládneš. Zvládneš.
+
+109
+00:11:47,867 --> 00:11:50,389
+<i>Všichni mají na mysli
+Colbyho zatèení.</i>
+
+110
+00:11:50,391 --> 00:11:53,514
+<i>Teda na obrazovce.
+I kdy dnes je to asi toté.</i>
+
+111
+00:11:55,428 --> 00:11:59,522
+<i>Jak mám teï vùbec pracovat?
+Jak se mám na nìco soustøedit?</i>
+
+112
+00:11:59,524 --> 00:12:03,411
+<i>A kdy se mi zase ozve
+pan Robot? Na co èeká?</i>
+
+113
+00:12:04,126 --> 00:12:07,072
+<i>To jsem vánì bezdùvodnì
+znièil nìèí ivot?</i>
+
+114
+00:12:07,492 --> 00:12:09,933
+Promluvím s personálním,
+abys dostal pøidáno.
+
+115
+00:12:09,935 --> 00:12:12,452
+- Ale prosím.
+- Ne, jen to pøijmi.
+
+116
+00:12:13,226 --> 00:12:16,257
+Nebude to nic pøevratného,
+ale nic lepšího ti teï nezaøídím.
+
+117
+00:12:17,459 --> 00:12:20,503
+Zachránil jsi podnik, Elliote.
+
+118
+00:12:24,028 --> 00:12:25,675
+Teï...
+
+119
+00:12:28,018 --> 00:12:30,428
+Proè jsi mi neøekl
+o tom datovém logu?
+
+120
+00:12:31,421 --> 00:12:35,751
+Mohl jsi mi dát pøed mítinkem vìdìt,
+ale ty ses neukázal.
+
+121
+00:12:36,184 --> 00:12:39,954
+Budu upøímnı.
+Pøijde mi to dost zvláštní.
+
+122
+00:12:42,377 --> 00:12:44,747
+Nevìdìl jsem, co mám.
+
+123
+00:12:46,058 --> 00:12:49,428
+- Mohl to bıt jen doèasnı soubor.
+- Ale no tak.
+
+124
+00:12:49,518 --> 00:12:53,069
+Nikdy si nièím nejsi jistı,
+dokud tì o tom nìco neujistí.
+
+125
+00:12:54,196 --> 00:12:56,392
+Moná mì tak dobøe neznáte.
+
+126
+00:13:00,091 --> 00:13:01,584
+Nehledì na to...
+
+127
+00:13:02,352 --> 00:13:05,805
+Chci, abys na tom dál dìlal,
+zrovna teï je to nutné.
+
+128
+00:13:06,036 --> 00:13:09,053
+Kdo ví, co ti hackeøi
+z fsociety vyvedou pøíštì.
+
+129
+00:13:09,055 --> 00:13:11,113
+<i>Co e to øekl?</i>
+Co jste to øekl?
+
+130
+00:13:11,115 --> 00:13:12,875
+Ti, co pracují s Colbym.
+
+131
+00:13:13,874 --> 00:13:16,190
+Kdo ví, jak daleko zajdou
+s tím mazáním dat,
+
+132
+00:13:16,192 --> 00:13:18,866
+- a Evil Corp u...
+- O èem to mluvíte?
+
+133
+00:13:19,714 --> 00:13:21,360
+Tak to je nìco.
+
+134
+00:13:21,745 --> 00:13:24,061
+To ty jsi obvykle ten,
+kdo je o krok napøed.
+
+135
+00:13:24,063 --> 00:13:26,198
+Bìhem napadení
+narazili na zlatou ílu.
+
+136
+00:13:26,200 --> 00:13:29,488
+Soubory a e-maily
+o velikosti v øádech terabajtù.
+
+137
+00:13:29,490 --> 00:13:33,416
+Vyhroují, e vše smaou,
+pokud FBI nevydá Colbyho.
+
+138
+00:13:33,604 --> 00:13:35,656
+Ráno zveøejnili video.
+
+139
+00:13:43,516 --> 00:13:46,944
+<i>Dobrı den, Evil Corp.
+My jsme fsociety.</i>
+
+140
+00:13:46,946 --> 00:13:49,110
+<i>Celé roky jsme vás pozorovali.</i>
+
+141
+00:13:49,112 --> 00:13:53,010
+<i>Vaše finanèní zneuívání chudıch,
+vaše korumpování vlád,</i>
+
+142
+00:13:53,012 --> 00:13:58,032
+<i>i zakrıvání vrad
+nevinnıch obèanù pro vlastní zisk.</i>
+
+143
+00:13:58,034 --> 00:14:02,223
+<i>Proto jsme my, fsociety,
+rozhodli, e musíte zemøít.</i>
+
+144
+00:14:02,225 --> 00:14:07,610
+<i>Máme zlé úmysly, jsme nepøátelští.
+Nenecháme se ohrozit, jsme neúprosní.</i>
+
+145
+00:14:07,612 --> 00:14:11,335
+<i>Nezastavíme se,
+dokud neutneme</i>
+
+146
+00:14:11,337 --> 00:14:13,635
+<i>kadièké chapadlo
+té vaší nestvùrnosti.</i>
+
+147
+00:14:13,637 --> 00:14:18,553
+<i>Ale zato máme slitování.
+To napadení bylo poslední varování.</i>
+
+148
+00:14:18,555 --> 00:14:22,307
+<i>Vyhovte našim poadavkùm
+a my vás moná neznièíme.</i>
+
+149
+00:14:22,309 --> 00:14:27,302
+<i>Nejprve propuste našeho vùdce,
+Terryho Colbyho, z vìzení.</i>
+
+150
+00:14:27,304 --> 00:14:30,524
+<i>Poté propuste všechny obèany Zemì</i>
+
+151
+00:14:30,526 --> 00:14:33,739
+<i>z vašeho mnohem horšího
+vìzení ve formì dluhù.</i>
+
+152
+00:14:33,741 --> 00:14:36,427
+<i>A na závìr rozpuste svou spoleènost</i>
+
+153
+00:14:36,429 --> 00:14:40,055
+<i>a svá aktiva darujte
+charitám po celém svìtì.</i>
+
+154
+00:14:40,057 --> 00:14:42,524
+<i>O tìchto poadavcích
+nehodláme vyjednávat.</i>
+
+155
+00:14:42,526 --> 00:14:46,698
+<i>Lidé si uvìdomují, e se nemohou
+svobodnì rozhodovat, dokud tu jste.</i>
+
+156
+00:14:46,700 --> 00:14:51,559
+<i>Tito lidé se probouzí a u
+nepøijímají vaše ekonomické otroctví.</i>
+
+157
+00:14:51,561 --> 00:14:55,353
+<i>Vyhovte našim poadavkùm,
+jinak vás zabijeme.</i>
+
+158
+00:14:55,355 --> 00:14:57,202
+<i>Berte to jako varování.</i>
+
+159
+00:15:02,112 --> 00:15:03,539
+Pøehrajte to znovu.
+
+160
+00:15:04,263 --> 00:15:06,780
+Hej, hej, hej,
+zrovna jsem vydal album.
+
+161
+00:15:07,020 --> 00:15:10,458
+Kupte si moji novou desku,
+pøijde vás jen na dvacet lajkù.
+
+162
+00:15:10,671 --> 00:15:13,152
+Je to fakt pecka,
+to vám povím.
+
+163
+00:15:13,182 --> 00:15:17,049
+CD je zdarma, jen o mnì tweetnìte
+a rozšiøte mì na sociálních sítích.
+
+164
+00:15:19,077 --> 00:15:22,140
+Nìco jako... Elliote.
+Blahopøeju, chlape.
+
+165
+00:15:22,142 --> 00:15:24,797
+O AllSafe se díky tobì
+píše po celém netu.
+
+166
+00:15:24,799 --> 00:15:29,422
+To se musí oslavit. Ve ètvrtek
+vyráíme do restaurace Morton's.
+
+167
+00:15:29,424 --> 00:15:31,675
+Mìli jsme jít ve ètyøech
+s jedním párem, ale zazdili nás.
+
+168
+00:15:31,677 --> 00:15:34,825
+Co kdybys šel s náma?
+Mají tam bájeènı bifteky.
+
+169
+00:15:34,827 --> 00:15:37,474
+- To asi není nic pro Elliota.
+- Dobøe, tak fajn.
+
+170
+00:15:37,828 --> 00:15:39,947
+Fakt? Tak to je super, kámo.
+
+171
+00:15:39,949 --> 00:15:42,500
+Hele, co z toho
+udìlat dvojité rande?
+
+172
+00:15:42,502 --> 00:15:46,220
+- Prı u sis našel holku.
+- O tom jsi nemìl mluvit, Ollie.
+
+173
+00:15:46,222 --> 00:15:50,123
+- To nic, kotì, Elliotovi to nevadí.
+- No jo, jasnì. U musím.
+
+174
+00:15:50,125 --> 00:15:53,739
+Soused si stìoval,
+e mùj pes poøád štìká.
+
+175
+00:15:59,569 --> 00:16:03,573
+- Od kdy má psa?
+- Hej, hej, hej. Jste nádhernı pár.
+
+176
+00:16:03,575 --> 00:16:06,588
+Hele, zrovna mi vyšlo album.
+Posloucháte rap, hip-hop?
+
+177
+00:16:06,590 --> 00:16:10,380
+Moje hudba je hluboká, poetická,
+holce se bude urèitì líbit.
+
+178
+00:16:10,382 --> 00:16:12,868
+Ale no tak, pøed naší budovou
+pøešlapuješ u tak dva tıdny.
+
+179
+00:16:12,870 --> 00:16:15,580
+Tak fajn, vezmu si ho,
+ale musíš nám dát pokoj.
+
+180
+00:16:15,582 --> 00:16:17,334
+Díky. Díky, kámo.
+Fakt díky.
+
+181
+00:16:17,336 --> 00:16:21,526
+A tweetnu o tom, kdy se mi to
+bude líbit. Mám 48 followerù.
+
+182
+00:16:21,528 --> 00:16:24,334
+- Jasnı. Jasnı.
+- Jsou tam fajnšmekøi. - Chápu.
+
+183
+00:16:24,336 --> 00:16:26,807
+Dobøe. Váím si toho, kámo.
+
+184
+00:16:26,809 --> 00:16:28,095
+- Pøeju pìknej den.
+- Nápodobnì.
+
+185
+00:16:28,097 --> 00:16:31,253
+- Moc díky. Pus si druhou skladbu.
+- Druhá skladba. - Fajn, kámo.
+
+186
+00:16:32,251 --> 00:16:33,956
+<i>Tohle nebylo v plánu.</i>
+
+187
+00:16:33,958 --> 00:16:37,767
+<i>Vıhrùka smazání dat?
+Propuštìní Colbyho? Nedává to smysl.</i>
+
+188
+00:16:37,991 --> 00:16:42,104
+<i>Musím se zbavit pojítek s fsociety.
+Budu se od nich muset odpojit.</i>
+
+189
+00:16:42,106 --> 00:16:43,964
+<i>V práci nahlásím nemoc
+a chvíli budu mimo...</i>
+
+190
+00:16:59,871 --> 00:17:04,637
+Vole! Boha jeho!
+Jsem nahá, neèum na mì!
+
+191
+00:17:04,639 --> 00:17:08,496
+- Co dìláš v mé sprše?
+- Èekala jsem na tebe.
+
+192
+00:17:08,498 --> 00:17:10,803
+Vèera jsi mìl pøijít.
+To jsi zapomnìl?
+
+193
+00:17:10,805 --> 00:17:14,550
+- Pøijít? Kam?
+- To nic, všichni chodí pozdì.
+
+194
+00:17:20,761 --> 00:17:22,792
+Vezmu si tvoje hadry.
+
+195
+00:17:23,152 --> 00:17:25,755
+Na mıch mám skvrny od semena.
+
+196
+00:17:27,835 --> 00:17:31,316
+Boe, jen si z tebe støílím.
+
+197
+00:17:31,318 --> 00:17:34,519
+Obleèení mám v praèce,
+zatím si pùjèím tohle.
+
+198
+00:17:35,739 --> 00:17:39,487
+Jo, mimochodem,
+pes se ti vydìlal na postel.
+
+199
+00:17:39,955 --> 00:17:41,945
+Mìl bys ho venèit.
+
+200
+00:17:43,063 --> 00:17:45,841
+Èau. Vezmi si prosím
+na chvíli Flippera.
+
+201
+00:17:46,192 --> 00:17:50,019
+Asi potøebuje vyvenèit,
+poøád všude kadí.
+
+202
+00:17:50,021 --> 00:17:52,596
+No jasnì, e chce vyvenèit,
+je to pøece zatracenej pes.
+
+203
+00:17:52,598 --> 00:17:55,574
+Hej, ne vyrazíme,
+chci si skoèit pro zmrzku.
+
+204
+00:17:57,603 --> 00:17:59,965
+Pak se pro nìj stavím.
+
+205
+00:18:00,439 --> 00:18:02,779
+- Máš to u mì.
+- To si piš.
+
+206
+00:18:15,074 --> 00:18:16,950
+Odkud víš, kde bydlím?
+
+207
+00:18:17,189 --> 00:18:19,040
+Proè bych to nemìla vìdìt?
+
+208
+00:18:20,025 --> 00:18:22,210
+Nevím, já tøeba nevím,
+kde bydlíš ty.
+
+209
+00:18:24,630 --> 00:18:30,241
+No, momentálnì nebydlím nikde.
+
+210
+00:18:30,478 --> 00:18:34,103
+Ten vùl, se kterım jsem chodila,
+mì poádal o ruku, vìøíš tomu?
+
+211
+00:18:34,356 --> 00:18:36,842
+Je to vánì kretén.
+
+212
+00:18:37,189 --> 00:18:40,416
+No, a hroznì jsme se pohádali...
+
+213
+00:18:40,513 --> 00:18:44,286
+<i>Co to sakra dìlám?
+Ta enská mele samı kecy.</i>
+
+214
+00:18:44,288 --> 00:18:46,540
+<i>Vrátím se,
+povím o tom Gideonovi.</i>
+
+215
+00:18:46,542 --> 00:18:48,902
+<i>Pochopí to, ne?
+Ten si bude vìdìt rady.</i>
+
+216
+00:18:48,904 --> 00:18:55,307
+No nic, vezme mì zpátky.
+Jen poøešíme ty kecy o lásce.
+
+217
+00:18:55,578 --> 00:18:59,954
+Na chvíli zmizím z dohledu
+a on u dostane rozum.
+
+218
+00:19:00,666 --> 00:19:02,988
+Tak to u nás chodí.
+
+219
+00:19:03,340 --> 00:19:04,672
+Rychle!
+
+220
+00:19:14,740 --> 00:19:19,501
+<i>- Vidí je taky?</i>
+- Co? Ráda postojím.
+
+221
+00:19:21,422 --> 00:19:25,321
+Kdy u jsme u toho,
+snad nejvíc otravnı...
+
+222
+00:19:25,323 --> 00:19:27,959
+<i>Co kdy se to ale Tyrell dozví?
+Co bude dìlat?</i>
+
+223
+00:19:29,010 --> 00:19:33,397
+<i>Sakra, neexistuje varianta,
+ve které mì nezavøou nebo nezabijou.</i>
+
+224
+00:19:33,983 --> 00:19:37,712
+Já toti chtìla elvu,
+ale on, e ne.
+
+225
+00:19:38,316 --> 00:19:41,337
+Asi u tebe párkrát pøespím.
+Nebude ti to vadit?
+
+226
+00:19:42,519 --> 00:19:46,473
+To jako fakt? Fajn.
+Pøespím v obchodì s botama.
+
+227
+00:19:46,475 --> 00:19:50,406
+Stejnì nesnáším psy.
+Hlavnì ty, co ti serou do postele.
+
+228
+00:19:50,408 --> 00:19:54,364
+Jak takhle vùbec mùeš ít?
+Jak mùeš spát, kdy víš...
+
+229
+00:19:54,366 --> 00:19:57,377
+<i>Jak víme,
+mohl bych teï jít do pasti.</i>
+
+230
+00:19:57,379 --> 00:19:59,799
+<i>Jakmile projdu dveømi,
+mohl bych bıt mrtvı.</i>
+
+231
+00:19:59,801 --> 00:20:03,388
+No tak, chlape.
+Èekají nás velkı vìci.
+
+232
+00:20:03,679 --> 00:20:04,923
+Velkı vìci.
+
+233
+00:20:13,764 --> 00:20:16,601
+Pøichází hrdina,
+hezky se ukloòte.
+
+234
+00:20:21,037 --> 00:20:22,754
+Zatracenı kachny.
+
+235
+00:20:25,698 --> 00:20:27,130
+Nazdar, kámo.
+
+236
+00:20:27,132 --> 00:20:30,160
+Sakra. Promiò. Dobøe.
+
+237
+00:20:30,613 --> 00:20:32,808
+Fakt slušná práce, kámo.
+
+238
+00:20:32,810 --> 00:20:35,984
+- Fakt úasnı.
+- Pecka, kámo, pecka. Super.
+
+239
+00:20:35,986 --> 00:20:41,544
+Super, pokecali jsme, tak u
+nás prosím seznam s tím plánem.
+
+240
+00:20:41,546 --> 00:20:43,217
+Jak to vypadá se Steel Mountain?
+
+241
+00:20:43,219 --> 00:20:46,239
+Pokud se nepletu,
+ještì to není úplnì bezpeèné,
+
+242
+00:20:46,241 --> 00:20:48,162
+a poøád se musí
+zapomenout na to s Colbym.
+
+243
+00:20:48,164 --> 00:20:52,567
+To jako vánì? Jsou to u tıdny.
+Kdyby byly stopy, u by je našli.
+
+244
+00:20:52,569 --> 00:20:56,136
+- Stopy jsou uklizené, šéfe,
+to pøísahám. - Dìkuju.
+
+245
+00:20:56,375 --> 00:20:59,654
+Ale pokud budeš mít lepší pocit,
+tak se na to s Romerem...
+
+246
+00:20:59,656 --> 00:21:01,936
+Vıbornì. Do toho.
+
+247
+00:21:01,938 --> 00:21:04,799
+Já pùjdu dozadu,
+budu trochu pøemítat.
+
+248
+00:21:14,565 --> 00:21:16,234
+Co má za problém?
+
+249
+00:21:16,236 --> 00:21:19,982
+Je to sloitá enská.
+Programátorky takové jsou, no ne?
+
+250
+00:21:19,984 --> 00:21:21,929
+Zjevila se u mì v bytì.
+
+251
+00:21:22,367 --> 00:21:23,981
+Odkud ví, kde bydlím?
+
+252
+00:21:23,983 --> 00:21:27,581
+Nebudeme ji øešit. To by ses rovnou
+mohl pøedávkovat a u se neprobrat.
+
+253
+00:21:27,583 --> 00:21:30,585
+Radši se soustøeï
+na další èást našeho plánu.
+
+254
+00:21:30,587 --> 00:21:33,194
+Comet, plynárenskı podnik
+nedaleko Albany?
+
+255
+00:21:36,260 --> 00:21:38,013
+Vyhodíme ho do vzduchu.
+
+256
+00:21:39,115 --> 00:21:40,369
+Proè byste...
+
+257
+00:21:41,985 --> 00:21:44,107
+Comet sídlí hned vedle Steel Mountain.
+
+258
+00:21:44,109 --> 00:21:45,987
+Co je, jak asi víš,
+
+259
+00:21:45,989 --> 00:21:51,449
+vedlejší pracovištì a datové úloištì
+nejbohatších firem svìta, vèetnì...
+
+260
+00:21:51,451 --> 00:21:53,481
+- Evil Corp.
+- Správnì.
+
+261
+00:21:54,630 --> 00:21:56,679
+Znièíte jejich páskové zálohy.
+
+262
+00:21:57,442 --> 00:22:01,544
+Nìco takového budou èekat.
+Od toho hacknutí jsou ostraití.
+
+263
+00:22:01,546 --> 00:22:04,031
+Pokud vím, tak toho hackera
+pøece chytili, nebo ne?
+
+264
+00:22:04,033 --> 00:22:05,638
+Ne, nechytili.
+
+265
+00:22:05,782 --> 00:22:08,098
+- Tyrell Wellick to ví.
+- Ten ví jen to, co mu øekli.
+
+266
+00:22:08,100 --> 00:22:10,217
+Je to korporátní robot,
+ostatnì jako ostatní.
+
+267
+00:22:10,219 --> 00:22:14,606
+Navíc se budou vzpamatovávat
+z tìch datovıch únikù, co plánujeme,
+
+268
+00:22:14,608 --> 00:22:16,206
+a máme pro nì pár specialit.
+
+269
+00:22:16,208 --> 00:22:19,645
+Starı dobrı rasismus,
+sexismus, fašismus.
+
+270
+00:22:19,979 --> 00:22:23,836
+Zahltíme je všemi tìmi pojmy,
+a z toho sotva uvidí.
+
+271
+00:22:23,838 --> 00:22:25,968
+A ádat o Colbyho propuštìní
+bylo geniální.
+
+272
+00:22:25,970 --> 00:22:28,965
+Upne se na nìj vìtší pozornost
+a my zùstaneme mimo dohled.
+
+273
+00:22:29,078 --> 00:22:31,508
+Tahle zlomyslná skopièina
+napadla tadyhle Trenton.
+
+274
+00:22:32,004 --> 00:22:34,220
+Sice vypadá nevinnì,
+ale dával bych si bacha.
+
+275
+00:22:34,222 --> 00:22:36,515
+Skrıvá v sobì poøádnı
+allahu akbar.
+
+276
+00:22:37,061 --> 00:22:38,751
+A bìhem toho všeho
+
+277
+00:22:38,753 --> 00:22:42,782
+pouiješ svou provìrku u AllSafe,
+abys mohl hacknout Comet PLC,
+
+278
+00:22:42,784 --> 00:22:45,481
+zvıšíš tlak,
+plynovody vybuchnou
+
+279
+00:22:45,483 --> 00:22:49,354
+a Steel Mountain i jádro Evil Corpu
+tak pùjdou hezky ke dnu.
+
+280
+00:22:54,503 --> 00:22:58,020
+- Oni o tom vìdí?
+- Ty jsi první.
+
+281
+00:23:01,341 --> 00:23:02,949
+A co pracovníci?
+
+282
+00:23:03,303 --> 00:23:06,645
+A ti, co ijí kolem toho podniku?
+To všichni zemøou?
+
+283
+00:23:06,835 --> 00:23:10,102
+Dáme jim náskok.
+Spustíme alarmy, budou v pohodì.
+
+284
+00:23:13,766 --> 00:23:17,737
+- Chcete vyhodit do vzduchu plynovod.
+- Svìt je nebezpeèné místo, Elliote.
+
+285
+00:23:17,739 --> 00:23:21,887
+Ne kvùli tìm, co zlo páchají,
+ale kvùli tìm, co mu slepì pøihlíí.
+
+286
+00:23:21,889 --> 00:23:24,904
+Tohle je válka.
+Lidé budou umírat.
+
+287
+00:23:26,419 --> 00:23:28,512
+A jakmile ten plynovod vybuchne,
+
+288
+00:23:28,866 --> 00:23:31,793
+virus od Darlene se dostane
+do datového centra Spojenıch státù,
+
+289
+00:23:31,795 --> 00:23:34,675
+s jeho instalací jsi nám pomohl,
+take mockrát dìkujeme.
+
+290
+00:23:35,765 --> 00:23:38,667
+A o nadbyteèné zálohy
+v datovém centru v Èínì
+
+291
+00:23:39,235 --> 00:23:41,605
+se postará Dark Army.
+
+292
+00:23:41,885 --> 00:23:44,493
+Dark Army? Ale proè?
+
+293
+00:23:44,691 --> 00:23:48,371
+Nemají kodex, hackují pro kohokoliv.
+Teroristy, Severní Koreu, Írán, Rusko.
+
+294
+00:23:48,373 --> 00:23:51,347
+Tím pádem nesnáší americkı
+kapitalismus asi jako ostatní.
+
+295
+00:23:53,533 --> 00:23:58,155
+A v neposlední øadì...
+Steel Mountain.
+
+296
+00:23:58,157 --> 00:24:00,072
+Hackerské dilema.
+
+297
+00:24:00,382 --> 00:24:05,047
+Co dìlat, kdy se data,
+která chceš znièit, vyhnou kontrole?
+
+298
+00:24:11,184 --> 00:24:13,080
+Já nikoho nezabiju.
+
+299
+00:24:15,504 --> 00:24:17,758
+Nìco mi povìz, Elliote.
+
+300
+00:24:17,760 --> 00:24:20,093
+Jsi jednièka, nebo nula?
+
+301
+00:24:21,384 --> 00:24:25,236
+Tuhle otázku si polo.
+Jsi ano, nebo ne?
+
+302
+00:24:25,238 --> 00:24:27,762
+Budeš jednat, nebo ne?
+
+303
+00:24:30,987 --> 00:24:35,728
+A moc dlouho jste civìl
+do monitoru, kamaráde.
+
+304
+00:24:36,453 --> 00:24:39,008
+- ivot není binární kód.
+- Urèitì?
+
+305
+00:24:39,662 --> 00:24:41,883
+Ano, sice existují šedá místa,
+
+306
+00:24:42,150 --> 00:24:44,302
+ale kdy si to vezmeš,
+tak ve svém jádru
+
+307
+00:24:44,304 --> 00:24:48,232
+je za kadım rozhodnutím
+buïto jednièka, nebo nula.
+
+308
+00:24:48,234 --> 00:24:51,105
+Buï nìco udìláš, nebo ne.
+
+309
+00:24:51,343 --> 00:24:53,946
+Kdy vyjdeš ven tìmi dveømi,
+rozhodl ses nic neudìlat,
+
+310
+00:24:53,948 --> 00:24:57,777
+øíct ne, tím pádem se nevrátíš.
+
+311
+00:24:57,779 --> 00:25:01,112
+Kdy odejdeš,
+u se na tom nebudeš podílet.
+
+312
+00:25:01,114 --> 00:25:02,956
+Staneš se nulou.
+
+313
+00:25:04,018 --> 00:25:07,686
+Pokud ale zùstaneš,
+pokud chceš zmìnit svìt,
+
+314
+00:25:09,149 --> 00:25:13,219
+øekneš ano
+a staneš se jednièkou.
+
+315
+00:25:13,830 --> 00:25:19,165
+Take se ptám znovu.
+Jsi jednièka, nebo nula?
+
+316
+00:25:19,461 --> 00:25:21,402
+Nevinnı èlovìk
+je kvùli mnì ve vìzení.
+
+317
+00:25:21,404 --> 00:25:25,400
+No tak, nechme u tìch kecù.
+S Colbym to vùbec nesouvisí.
+
+318
+00:25:29,632 --> 00:25:31,833
+Tady nejde o mou revoluci.
+
+319
+00:25:32,401 --> 00:25:34,416
+Pro tebe je to mnohem víc.
+
+320
+00:25:34,418 --> 00:25:37,359
+Jde o ty šmejdy,
+kteøí ti pomalu zabili otce,
+
+321
+00:25:37,361 --> 00:25:39,894
+a jak sis pøál,
+aby s tím nìco udìlal, jene on ne.
+
+322
+00:25:39,896 --> 00:25:44,204
+Protoe byl nula,
+stejnì jako teï ty.
+
+323
+00:25:46,229 --> 00:25:47,843
+Naserte si.
+
+324
+00:25:51,312 --> 00:25:53,000
+Zase mizíš?
+
+325
+00:25:56,172 --> 00:25:59,652
+Nehodlám nikoho zabít.
+Vynechte mì z toho.
+
+326
+00:26:01,160 --> 00:26:03,663
+Tomuhle neuteèeš.
+
+327
+00:26:03,813 --> 00:26:07,140
+Udìláme to s tebou nebo bez tebe,
+ale u tak se na tom podílíš.
+
+328
+00:26:07,524 --> 00:26:10,765
+A ani ta tvoje pitomá kapuce
+tì neochrání, kreténe!
+
+329
+00:26:10,847 --> 00:26:12,977
+<i>Tohle byla chyba,
+musím je udat.</i>
+
+330
+00:26:12,979 --> 00:26:15,213
+<i>A mìl bych to udìlat?
+Neskonèím v maléru?</i>
+
+331
+00:26:15,215 --> 00:26:18,958
+<i>Sakra, má pravdu.
+Jsem trestuhodnı. Ne, to my.</i>
+
+332
+00:26:18,960 --> 00:26:22,290
+<i>Jedeš v tom se mnou,
+take zaèni zvaovat øešení.</i>
+
+333
+00:26:26,908 --> 00:26:28,511
+Shaylo?
+
+334
+00:26:34,272 --> 00:26:35,610
+Hej, Shaylo.
+
+335
+00:26:35,967 --> 00:26:37,344
+Hele, brácho.
+
+336
+00:26:38,369 --> 00:26:40,265
+Chceš s nìèím pomoct?
+
+337
+00:26:44,488 --> 00:26:49,980
+- Musím mluvit se Shaylou.
+- Aha, se svou holkou. Koupe se.
+
+338
+00:26:55,527 --> 00:26:58,433
+- Shaylo.
+- Za chvíli bude venku.
+
+339
+00:27:00,542 --> 00:27:02,315
+Klidnì si sedni a poèkej.
+
+340
+00:27:03,811 --> 00:27:06,741
+Mìli bychom ji zkontrolovat,
+jestli je v poøádku.
+
+341
+00:27:09,195 --> 00:27:12,016
+Tak pán je vtipálek.
+Líbíš se mi.
+
+342
+00:27:13,054 --> 00:27:14,681
+Nebuï neslušnej.
+
+343
+00:27:15,273 --> 00:27:17,458
+Sedni a hoï se do klídku.
+
+344
+00:27:35,927 --> 00:27:37,469
+Ne, jasnì.
+
+345
+00:27:41,466 --> 00:27:43,227
+Ty bereš jenom tohle.
+
+346
+00:27:43,451 --> 00:27:46,813
+Seš jedinej tıpek,
+kterı bere i léky na absáky.
+
+347
+00:27:47,422 --> 00:27:49,070
+To je chytrı.
+
+348
+00:27:49,674 --> 00:27:52,378
+Beztak ses i pøesvìdèil
+o tom, e nejsi feák.
+
+349
+00:27:53,551 --> 00:27:55,457
+No sakra.
+
+350
+00:27:55,459 --> 00:27:57,680
+Zapomnìl jsem se pøedstavit.
+Jsem...
+
+351
+00:27:57,682 --> 00:28:01,527
+<i>Fernando Vera. Shaylin dodavatel.
+Jeden z nejhorších, co jsem kdy hackl.</i>
+
+352
+00:28:01,529 --> 00:28:05,397
+<i>Jeho heslo? SnìzMiPéro6969.</i>
+
+353
+00:28:05,399 --> 00:28:08,858
+<i>Kromì faktu, e utratí plno penìz
+na pornu a webkamerách,</i>
+
+354
+00:28:08,860 --> 00:28:12,397
+<i>provádí všechny drogové obchody
+pøes e-maily, chaty a Twitter.</i>
+
+355
+00:28:12,730 --> 00:28:15,401
+<i>To, e na nìj ještì nepøišli,
+mi vánì nejde na mozek.</i>
+
+356
+00:28:15,403 --> 00:28:19,435
+<i>I s pùlkou mozkovıch bunìk
+by rozluštili jeho prostı kód,</i>
+
+357
+00:28:19,437 --> 00:28:21,235
+<i>pokud se tak tomu dá øíkat.</i>
+
+358
+00:28:21,489 --> 00:28:25,274
+<i>Po pár hodinách spojování
+jeho tweetù s èlánky v novinách</i>
+
+359
+00:28:25,276 --> 00:28:28,872
+<i>jsem zjistil, e "sušenka"
+a "klika" odkazují na zbranì.</i>
+
+360
+00:28:29,013 --> 00:28:31,904
+<i>"Jídlo", "mušle" a "plyn"
+jsou zase kulky.</i>
+
+361
+00:28:31,906 --> 00:28:34,784
+<i>A to, èím to konèívá,
+"spát jako zabitı".</i>
+
+362
+00:28:34,786 --> 00:28:37,136
+<i>Zatím jsem si nic nespojil
+s konkrétní vradou,</i>
+
+363
+00:28:37,138 --> 00:28:40,891
+<i>ale z rovnice, kde jsou zbranì
+a støelivo, mùe vyjít jen jedno.</i>
+
+364
+00:28:40,893 --> 00:28:44,644
+<i>Chtìl jsem ho udat,
+ale je to Shaylin jedinı dodavatel.</i>
+
+365
+00:28:44,646 --> 00:28:46,962
+<i>Kdy ho sejmu,
+pøijdu o svoje drogy,</i>
+
+366
+00:28:46,964 --> 00:28:50,083
+<i>které s tím vším, co se dìje,
+teï vánì ztratit nemùu.</i>
+
+367
+00:28:50,085 --> 00:28:52,165
+Ale chápeš, ne?
+
+368
+00:28:53,677 --> 00:28:55,237
+Jo, a brácho.
+
+369
+00:28:55,239 --> 00:28:57,112
+Vùbec se mì neboj.
+
+370
+00:28:58,243 --> 00:29:00,129
+Jen ti nesu tvoje zboí.
+
+371
+00:29:01,696 --> 00:29:03,372
+Jak se vùbec jmenuješ?
+
+372
+00:29:05,350 --> 00:29:06,658
+Elliot.
+
+373
+00:29:07,101 --> 00:29:08,495
+Co to znamená?
+
+374
+00:29:09,967 --> 00:29:11,900
+Ty sis to negoogloval?
+
+375
+00:29:11,902 --> 00:29:15,274
+To bys mìl, vıznam jména
+je vánì dùleitej, kámo.
+
+376
+00:29:15,560 --> 00:29:18,221
+Je v pohodì!
+Nic jí není.
+
+377
+00:29:22,600 --> 00:29:26,376
+Vìø mi, sám jsem se o to postaral.
+
+378
+00:29:32,141 --> 00:29:36,070
+Pøipomínáš mi mì zamlada.
+Deprimovanı a mrzutı.
+
+379
+00:29:36,414 --> 00:29:39,212
+Dokonce jsem se párkrát
+pokusil spáchat sebevradu.
+
+380
+00:29:40,465 --> 00:29:44,976
+Ale nikdy jsem se neøízl správnì.
+Biologie mi nikdy zrovna nešla.
+
+381
+00:29:46,248 --> 00:29:49,288
+Nenávidìl jsem se.
+Poøád se nenávidím.
+
+382
+00:29:49,290 --> 00:29:52,177
+Dlouho jsem si myslel,
+e je to moje slabina.
+
+383
+00:29:58,469 --> 00:30:01,059
+Pak mi ale došlo,
+e v tom tkví má síla.
+
+384
+00:30:02,104 --> 00:30:05,241
+Lidi chodìj kolem
+a myslí, e ví, co je nenávist.
+
+385
+00:30:05,243 --> 00:30:09,852
+To neví nikdo, dokud nezaène
+nenávidìt sám sebe.
+
+386
+00:30:09,854 --> 00:30:13,829
+A tím myslím fakt nenávidìt.
+
+387
+00:30:15,719 --> 00:30:17,246
+To je síla.
+
+388
+00:30:28,750 --> 00:30:30,636
+Ty se mì nebojíš, co?
+
+389
+00:30:34,706 --> 00:30:36,130
+To je dobøe.
+
+390
+00:30:36,708 --> 00:30:39,170
+Aspoò nebyla chyba
+se s tebou spøátelit.
+
+391
+00:30:41,878 --> 00:30:43,697
+Ty prášky stejnì nepotøebuješ.
+
+392
+00:30:44,169 --> 00:30:47,156
+Èlovìk s tvou odvahou
+menší absák snese.
+
+393
+00:30:48,892 --> 00:30:52,693
+Víš, jenom díky tobì
+jsem poznal Shaylu.
+
+394
+00:30:53,319 --> 00:30:59,666
+Jsem tu jedinej, co øeší vše,
+vèetnì toho tvého Suboxonu.
+
+395
+00:31:00,087 --> 00:31:02,680
+Take bych ti mìl
+vlastnì dìkovat.
+
+396
+00:31:02,740 --> 00:31:04,475
+To tys ji ke mnì pøivedl.
+
+397
+00:31:04,477 --> 00:31:07,551
+Zaèal jsi kolem mì obíhat
+
+398
+00:31:07,553 --> 00:31:10,455
+a pøivedl jsi ke mnì
+lásku mıho ivota, Elliote.
+
+399
+00:31:10,783 --> 00:31:13,968
+Tohle? My?
+To, e tu jsme?
+
+400
+00:31:14,703 --> 00:31:18,446
+Má to nádhernej vıznam.
+
+401
+00:31:19,322 --> 00:31:24,314
+Ale nenech se zmást.
+Ta holka je toti moje.
+
+402
+00:31:25,361 --> 00:31:27,343
+Nevím, co bych si bez ní poèal.
+
+403
+00:31:28,129 --> 00:31:34,802
+Sice neznám celou tu vaši dohodu,
+ale kdy jsme teï kámoši...
+
+404
+00:31:36,235 --> 00:31:38,420
+Budu doufat, e budeš
+tuhle hranici respektovat.
+
+405
+00:31:39,187 --> 00:31:40,499
+Rozumíme si?
+
+406
+00:31:50,798 --> 00:31:53,726
+Jeden tıpek se na mì
+dneska podíval úplnì stejnì.
+
+407
+00:31:54,108 --> 00:31:58,218
+Øeknu k tomu jenom to,
+e nìkdy se hodí mít strach.
+
+408
+00:32:00,995 --> 00:32:02,628
+A nìkdy zase ne.
+
+409
+00:32:09,531 --> 00:32:12,641
+Shaylo? <i>Zámek u dveøí.
+Oblíbená disciplína kadého hackera.</i>
+
+410
+00:32:12,643 --> 00:32:16,206
+<i>Dokonalı systém k hacknutí.
+Na rozdíl od virtuálních systémù</i>
+
+411
+00:32:16,208 --> 00:32:20,035
+<i>cítíte, vidíte a slyšíte,
+kdy ho rozbijete.</i>
+
+412
+00:32:26,350 --> 00:32:27,576
+Shaylo.
+
+413
+00:32:33,134 --> 00:32:34,455
+Prober se.
+
+414
+00:32:38,529 --> 00:32:40,145
+Co se stalo?
+
+415
+00:32:41,263 --> 00:32:42,679
+Jsi v pohodì?
+
+416
+00:32:44,342 --> 00:32:46,284
+Co tu dìlal ten kretén?
+
+417
+00:32:46,490 --> 00:32:48,371
+Proè jsem ve vanì?
+
+418
+00:32:52,519 --> 00:32:58,459
+Nevím. Øekla jsem si o tvé prášky.
+Pøišel sem. Trochu jsme si zakouøili.
+
+419
+00:33:00,627 --> 00:33:05,374
+- Pamatuješ si,
+e bys s ním spala? - Co? Ne.
+
+420
+00:33:05,799 --> 00:33:08,487
+<i>Ale on rozhodnì jo.</i>
+Dobøe, pùjdeme.
+
+421
+00:33:08,635 --> 00:33:13,016
+- Vezmi si kabelku a hlavnì...
+- Dost. Nikam nejdu. Dobøe?
+
+422
+00:33:14,508 --> 00:33:17,473
+Jak to myslíš?
+To mu to jen tak projde?
+
+423
+00:33:19,876 --> 00:33:23,905
+- Nemusíš s ním pracovat. Prášky
+mi mùe nosit nìkdo jinı. - Nemùe.
+
+424
+00:33:28,489 --> 00:33:31,332
+Mám u nìj dobré podmínky.
+
+425
+00:33:32,897 --> 00:33:34,720
+Vydìlám si slušnı peníze.
+
+426
+00:33:34,722 --> 00:33:37,246
+<i>A u je to tady,
+ta neviditelná ruka.</i>
+
+427
+00:33:37,248 --> 00:33:41,111
+<i>Ovládá nás a tlaèí nás
+pøes náš práh bolesti.</i>
+
+428
+00:33:41,235 --> 00:33:42,854
+Neskonèí to.
+
+429
+00:33:44,338 --> 00:33:45,939
+Co kdy to udìlá znovu?
+
+430
+00:33:46,306 --> 00:33:48,373
+Slib mi, e nic neudìláš.
+
+431
+00:33:49,912 --> 00:33:53,991
+Mluvím vánì, Elliote.
+S tímhle nic nezmùeš.
+
+432
+00:33:55,115 --> 00:33:57,174
+Nemám zrovna na vybranou.
+
+433
+00:33:59,219 --> 00:34:02,800
+Hele. Mohl bys tu pøespat?
+
+434
+00:34:07,961 --> 00:34:11,930
+<i>Rozhodnutí.
+Moná mìl pan Robot pravdu.</i>
+
+435
+00:34:11,932 --> 00:34:16,001
+<i>O tohle tu kráèí,
+o ta ano a ne v našem ivotì.</i>
+
+436
+00:34:16,003 --> 00:34:19,308
+<i>Ale volíme si my je,
+nebo ony nás?</i>
+
+437
+00:34:19,706 --> 00:34:26,000
+<i>Fernando Vera. Zbavím se ho
+a pøijdu o dealera i o morfin.</i>
+
+438
+00:34:26,002 --> 00:34:28,719
+<i>A ta bolest, co v sobì dusím,
+opìt vyjde na povrch.</i>
+
+439
+00:34:29,483 --> 00:34:34,356
+<i>Mohl bych najít jiného dealera,
+ale nikdo jinı Suboxone nedává.</i>
+
+440
+00:34:34,358 --> 00:34:36,888
+<i>Mohl bych zase
+digitálnì falšovat pøedpisy,</i>
+
+441
+00:34:36,890 --> 00:34:39,791
+<i>ale v lékárnách si tohle hlídají.</i>
+
+442
+00:34:39,793 --> 00:34:42,177
+<i>Vìtšinou vydávají
+jen u ruènì psanıch.</i>
+
+443
+00:34:42,179 --> 00:34:46,781
+<i>Prùbìnì dostávat legální prášky
+není reálné, stejnì tak i bıt feákem.</i>
+
+444
+00:34:46,783 --> 00:34:49,943
+<i>Take buï pøestanu brát,
+nebo nechám Veru ít.</i>
+
+445
+00:34:50,721 --> 00:34:53,688
+<i>Vím, co tì teï napadá.
+Odpovìï je dost jasná.</i>
+
+446
+00:34:53,690 --> 00:34:58,027
+<i>Vera u Shaylu osahával,
+ale pøešel a ke znásilnìní.</i>
+
+447
+00:35:01,732 --> 00:35:04,782
+<i>Nedal mi na vybranou,
+stejnì tak i Shayle.</i>
+
+448
+00:35:05,219 --> 00:35:07,620
+<i>U nemùe dál existovat.</i>
+
+449
+00:35:20,434 --> 00:35:22,807
+Zaèneme tøeba s tím,
+jak se dnes cítíte?
+
+450
+00:35:27,824 --> 00:35:29,400
+Špatnì.
+
+451
+00:35:30,561 --> 00:35:32,556
+Co je špatné?
+
+452
+00:35:34,514 --> 00:35:35,924
+Všechno.
+
+453
+00:35:37,684 --> 00:35:40,093
+Pobavte mì podrobnostmi.
+
+454
+00:35:45,242 --> 00:35:48,642
+Jak vùbec víme,
+jestli máme kontrolu?
+
+455
+00:35:50,814 --> 00:35:56,351
+A e jen netìíme maximum
+z toho, co nám ivot dá.
+
+456
+00:35:57,087 --> 00:36:00,730
+Neustále si vybíráme
+mezi dvìma monostmi.
+
+457
+00:36:01,208 --> 00:36:03,580
+Tøeba ty dvì malby,
+které máte v èekárnì.
+
+458
+00:36:05,128 --> 00:36:08,746
+Nebo...
+Coca-Cola a Pepsi.
+
+459
+00:36:09,549 --> 00:36:12,130
+McDonald's, nebo Burger King?
+
+460
+00:36:12,719 --> 00:36:15,835
+Hyundai, nebo Honda?
+
+461
+00:36:20,827 --> 00:36:23,835
+Vše je to souèástí
+stejné mazanice, e?
+
+462
+00:36:25,232 --> 00:36:27,266
+Odvádí to naši pozornost.
+
+463
+00:36:28,268 --> 00:36:30,373
+Ta iluze volby.
+
+464
+00:36:30,804 --> 00:36:36,879
+Pùlka z nás si ani nedokáe vybrat
+kabelovku, benzín, elektøinu.
+
+465
+00:36:37,411 --> 00:36:41,412
+Vodu, kterou pijeme.
+Zdravotní pojištìní.
+
+466
+00:36:41,932 --> 00:36:44,005
+I kdyby ano,
+mìlo by to vıznam?
+
+467
+00:36:45,085 --> 00:36:48,470
+Kdy si jako pojišovnu vybereme
+Blue Cross nebo Blue Shield,
+
+468
+00:36:48,472 --> 00:36:51,060
+jakı je v tom sakra rozdíl?
+
+469
+00:36:56,063 --> 00:36:58,556
+Nejsou v podstatì stejné?
+
+470
+00:37:01,034 --> 00:37:02,600
+To ne.
+
+471
+00:37:03,020 --> 00:37:08,409
+Naše rozhodnutí
+máme u dávno pøedplacená.
+
+472
+00:37:10,277 --> 00:37:13,227
+Mrzí mì,
+e si pøipadáte bez kontroly.
+
+473
+00:37:15,282 --> 00:37:18,302
+Myslel jsem, e konám dobro.
+
+474
+00:37:20,637 --> 00:37:24,345
+Podílel jsem se na jednom projektu.
+
+475
+00:37:25,292 --> 00:37:28,979
+Myslel jsem, e budu
+souèástí nìèeho vıjimeèného.
+
+476
+00:37:33,717 --> 00:37:36,944
+- A co teï?
+- A teï...
+
+477
+00:37:38,622 --> 00:37:42,731
+Ukázalo se, e jsem se mılil,
+ostatnì jako vdycky.
+
+478
+00:37:43,560 --> 00:37:46,377
+Jakı to má vùbec smysl?
+
+479
+00:37:48,382 --> 00:37:53,566
+To u rovnou nemusím dìlat nic.
+Nemusím dìlat vùbec nic.
+
+480
+00:37:55,589 --> 00:37:57,606
+Tento problém u jsme rozebírali.
+
+481
+00:37:58,096 --> 00:38:01,713
+Ten pocit, e jste bez kontroly.
+Pamatujete si to ještì?
+
+482
+00:38:05,382 --> 00:38:07,333
+Tehdy jsme øešili vašeho otce.
+
+483
+00:38:08,168 --> 00:38:12,694
+Øekl jste, e nic neudìlal,
+kdy bojoval s rakovinou.
+
+484
+00:38:13,340 --> 00:38:16,608
+Øekl jste mu, aby bojoval
+proti firmì, která to zpùsobila.
+
+485
+00:38:16,610 --> 00:38:18,543
+Mohl se o tom svìøit druhım.
+
+486
+00:38:18,545 --> 00:38:21,380
+Mohlo se mu dostat lepší péèe.
+
+487
+00:38:22,015 --> 00:38:23,962
+On ale neudìlal nic.
+
+488
+00:38:26,002 --> 00:38:30,063
+Moná se váš otec
+cítil stejnì jako teï vy.
+
+489
+00:38:30,757 --> 00:38:33,908
+Jak jste sám øekl.
+Jakı to má smysl?
+
+490
+00:38:33,910 --> 00:38:39,124
+- Tohle je jiné. - Jiné je to,
+e vy máte monosti, Elliote.
+
+491
+00:38:39,232 --> 00:38:42,536
+V tom tkví vaše síla.
+To je vaše kontrola.
+
+492
+00:38:42,538 --> 00:38:45,530
+Nemusíte jen pøijímat,
+co vám ivot pøedhodí.
+
+493
+00:38:47,057 --> 00:38:51,459
+No tak. Povìzte mi,
+co to s vámi je.
+
+494
+00:38:51,461 --> 00:38:54,095
+Nemùu vám pomoct,
+kdy o tom nebudete mluvit.
+
+495
+00:38:54,097 --> 00:38:55,624
+Sklapnìte!
+
+496
+00:38:58,835 --> 00:39:00,556
+Sklapnìte!
+
+497
+00:39:03,140 --> 00:39:06,824
+Máte pytle pod oèima.
+Køièíte. Jste nervózní.
+
+498
+00:39:06,826 --> 00:39:12,024
+Za poslední mìsíc jste pøešel
+ke starım zvykùm i chování.
+
+499
+00:39:14,051 --> 00:39:17,310
+Co se dìje?
+
+500
+00:39:58,873 --> 00:40:01,711
+<b><i>Interní zmìny klimatu</i></b>
+
+501
+00:40:16,411 --> 00:40:17,928
+Poøád mi to nebere.
+
+502
+00:40:18,355 --> 00:40:21,771
+Tak se ho zeptáme zítra.
+
+503
+00:40:21,773 --> 00:40:25,037
+Vdycky, kdy to chci pøehrát,
+
+504
+00:40:25,333 --> 00:40:28,006
+sekne se mi poèítaè
+a CDèko vyjede ven.
+
+505
+00:40:29,099 --> 00:40:30,686
+Není v poøádku.
+
+506
+00:40:31,094 --> 00:40:33,443
+Dneska v práci
+se choval hroznì divnì.
+
+507
+00:40:33,445 --> 00:40:34,739
+<b><i>Tohle musíš hned vidìt.</i></b>
+
+508
+00:40:38,974 --> 00:40:40,454
+<b><i>Stav se dneska...</i></b>
+
+509
+00:40:44,791 --> 00:40:47,592
+- Øíkáš nìco, zlato?
+- Nìco se dìje.
+
+510
+00:40:48,194 --> 00:40:49,658
+Mìla bych se za ním stavit?
+
+511
+00:40:50,495 --> 00:40:53,470
+Zkontrolovat ho?
+
+512
+00:40:54,720 --> 00:40:58,334
+No tak, tohle je smìšné.
+
+513
+00:40:59,439 --> 00:41:03,029
+- Vdycky byl takovı podivín, ne?
+- Mám o nìj vánì strach.
+
+514
+00:41:07,847 --> 00:41:12,992
+Psal mi Fred, kámoš z Arizony.
+Chtìl by se mnou zajít na pivo.
+
+515
+00:41:13,286 --> 00:41:15,159
+Nemìlo by to trvat dlouho.
+
+516
+00:41:16,856 --> 00:41:18,333
+Dobøe.
+
+517
+00:42:01,035 --> 00:42:03,116
+<b><i>Jsme tam.</i></b>
+
+518
+00:42:30,041 --> 00:42:33,299
+Hluboké vášnì. Tuby.
+
+519
+00:42:33,301 --> 00:42:35,681
+Ani jeden z nich
+nikdy necítil takovou lásku.
+
+520
+00:42:35,683 --> 00:42:38,983
+Takovou blízkost,
+takové propojení.
+
+521
+00:42:40,525 --> 00:42:42,494
+Vím, jak to udìlat bez...
+
+522
+00:42:43,575 --> 00:42:45,025
+Sedej.
+
+523
+00:42:55,056 --> 00:42:58,041
+Vím, jak se zbavit záloh
+bez znièení plynovodù.
+
+524
+00:42:58,043 --> 00:43:01,281
+Pøijde mi, e u jsme to
+mezi námi uzavøeli, Elliote.
+
+525
+00:43:01,283 --> 00:43:03,720
+- Neodešel jsi snad?
+- Odešel.
+
+526
+00:43:03,722 --> 00:43:07,193
+Neøekl jsem, e kdy odejdeš,
+u se na tom nebudeš podílet?
+
+527
+00:43:09,793 --> 00:43:11,252
+Já mám ale plán.
+
+528
+00:43:11,254 --> 00:43:14,808
+Pokud se chceš vrátit,
+musíme si porozumìt.
+
+529
+00:43:14,810 --> 00:43:18,255
+Budeš muset splatit dluh,
+protoe jsi pøece odešel.
+
+530
+00:43:18,257 --> 00:43:20,858
+- Já myslel, e na dluhy nevìøíte.
+- To není pravda.
+
+531
+00:43:20,860 --> 00:43:24,048
+Vìøím na dluhy.
+A na to, e jdou smazat.
+
+532
+00:43:28,574 --> 00:43:30,152
+Co chcete?
+
+533
+00:43:33,304 --> 00:43:35,573
+Chci, abys mi povìdìl o svém otci.
+
+534
+00:43:36,629 --> 00:43:40,607
+Mnì se do hlavy nedostanete,
+nechte si ty cvokaøské kecy.
+
+535
+00:43:40,609 --> 00:43:42,375
+Povìz mi, jak umøel.
+
+536
+00:43:43,005 --> 00:43:46,473
+A proè? Beztak jste si to
+u stejnì nìkde našel.
+
+537
+00:43:46,475 --> 00:43:48,123
+Chci to slyšet od tebe.
+
+538
+00:43:55,300 --> 00:43:57,020
+A kdy to udìlám...
+
+539
+00:43:57,535 --> 00:44:01,226
+Vrátíme se do herny
+a probereme ten plán?
+
+540
+00:44:15,674 --> 00:44:17,830
+Nevím, co vám mám øíct.
+
+541
+00:44:18,706 --> 00:44:22,173
+Byli jsme si blízcí. Hodnì.
+Byl to mùj nejlepší pøítel.
+
+542
+00:44:23,108 --> 00:44:25,625
+Celı ivot pracoval v Evil Corpu.
+
+543
+00:44:26,581 --> 00:44:29,333
+Patøil tam mezi nejlepší
+poèítaèové inenıry.
+
+544
+00:44:30,287 --> 00:44:33,221
+A najednou ho vyhodili.
+Nikdo nevìdìl proè.
+
+545
+00:44:34,486 --> 00:44:38,975
+A jednoho dne mi øekl...
+e má leukémii.
+
+546
+00:44:39,812 --> 00:44:43,380
+Musel jsem mu pøísahat,
+e o tom pomlèím, hlavnì pøed mámou.
+
+547
+00:44:44,566 --> 00:44:46,024
+A tak jsem mlèel.
+
+548
+00:44:46,301 --> 00:44:50,261
+Za pár mìsícù
+mu bylo hùø a hùø.
+
+549
+00:44:51,205 --> 00:44:53,235
+Nakonec jsem se zaèal bát...
+
+550
+00:44:55,143 --> 00:44:56,827
+Øekl jsem o tom mámì.
+
+551
+00:44:57,312 --> 00:45:01,971
+Kdy to zjistil, naštval se.
+Zaèal na mì køièet.
+
+552
+00:45:02,889 --> 00:45:06,308
+Pamatuju si, e jsem ho
+chtìl obejmout a omluvit se mu...
+
+553
+00:45:06,738 --> 00:45:11,621
+Ale poøád mì odstrkoval,
+a mì vystrèil ven z okna.
+
+554
+00:45:11,623 --> 00:45:13,933
+Spadl jsem a zlomil jsem si ruku.
+
+555
+00:45:14,846 --> 00:45:16,954
+Pak u na mì nepromluvil.
+
+556
+00:45:17,749 --> 00:45:21,510
+Ani se na mì nepodíval.
+A to ani v noc, kdy zemøel.
+
+557
+00:45:25,473 --> 00:45:27,065
+Staèí to?
+
+558
+00:45:41,940 --> 00:45:44,781
+Chápu, jaká je ztráta rodièe.
+
+559
+00:45:45,061 --> 00:45:46,793
+Rve to srdce.
+
+560
+00:45:50,048 --> 00:45:51,970
+Pøišlo ti nìkdy,
+e se zachoval správnì?
+
+561
+00:45:54,205 --> 00:45:57,341
+- Ohlednì èeho?
+- Toho, jak tì shodil z okna.
+
+562
+00:45:58,794 --> 00:46:02,271
+Za to, co jsi mu provedl.
+Pøišlo ti, e sis to zaslouil?
+
+563
+00:46:02,803 --> 00:46:05,478
+Já mu ale nic neudìlal,
+chtìl jsem mu pomoct.
+
+564
+00:46:05,480 --> 00:46:07,285
+Zradil jsi jeho dùvìru.
+
+565
+00:46:07,798 --> 00:46:09,366
+Bylo mi osm...
+
+566
+00:46:15,122 --> 00:46:17,970
+Porušil jsi posvátnı slib.
+
+567
+00:46:26,052 --> 00:46:29,052
+<font color="#B00000">www.serialzone.cz
+www.comicspoint.cz</font>
+
+568
+00:46:29,053 --> 00:46:32,053
+<font color="#B00000">www.edna.cz/mr-robot
+www.titulky.com</font>
+
+569
+00:46:33,305 --> 00:47:33,686
+PoštovnéZDARMA.cz 
+nakupujte a prodávejte s námi

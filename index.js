@@ -44,41 +44,40 @@ const returnFinalSubs = async ({ req, res, next, imdbid, subs }) => {
       url: subs[lang].url,
       encoding: null
     }, (error, response, data) => {
-      if (error) throw error;
-      unzip(data, (error, buffer) => {
+      if (error) returnJSON({ req, res, next, code: 400, status: 'error', message: 'Error while obtaining subtitles' });
+      unzip(data, (unzipError, buffer) => {
+        if (unzipError) returnJSON({ req, res, next, code: 400, status: 'error', message: 'Error while obtaining subtitles' });
         const srtFile = `./${imdbid}-${lang}-srt.srt`;
-        fs.writeFile(srtFile, buffer, {}, async () => {
-          await fs.createReadStream(srtFile)
-          .pipe(srtToVtt())
-          .pipe(fs.createWriteStream(`./${imdbid}-${lang}-vtt.vtt`));
-          finalSubs = {...finalSubs, [lang]: {
-            ...subs[lang],
-            vtt: `${API_URL}/${imdbid}-${lang}-vtt.vtt`
-          }};
-          if (index === Object.keys(subs).length - 1) {
-            returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Subtitles obtained', subs: finalSubs });
-          }
-        })
+        try {
+          fs.writeFile(srtFile, buffer, {}, async () => {
+            await fs.createReadStream(srtFile)
+            .pipe(srtToVtt())
+            .pipe(fs.createWriteStream(`./${imdbid}-${lang}-vtt.vtt`));
+            finalSubs = {...finalSubs, [lang]: {
+              ...subs[lang],
+              vtt: `${API_URL}/${imdbid}-${lang}-vtt.vtt`
+            }};
+            if (index === Object.keys(subs).length - 1) {
+              returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Subtitles obtained', subs: finalSubs });
+            }
+          })
+        } catch (err) {
+          returnJSON({ req, res, next, code: 400, status: 'error', message: 'Error while obtaining subtitles' });
+        }
       });
     });
   });
 }
 
-app.get('/subs/:id', async (req, res, next) => {
-  try {
-    const { id: imdbid } = req.params;
-    const subs = await OpenSubtitles.search({ imdbid, gzip: true });
-    returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Subtitles obtained', subs });
-  } catch (error) {
-    returnJSON({ req, res, next, code: 400, status:  'error', message: 'Unexpected error' });
-  }
-})
-
 app.get('/subs/movie/:id', async (req, res, next) => {
   try {
     const { id: imdbid } = req.params;
     const subs = await OpenSubtitles.search({ imdbid, gzip: true });
-    returnFinalSubs({ req, res, next, imdbid, subs: await subs });
+    if (Object.keys(subs).length === 0) {
+      returnJSON({ req, res, next, code: 400, status: 'error', message: 'Error while obtaining subtitles' });
+    } else {
+      returnFinalSubs({ req, res, next, imdbid, subs: await subs });
+    }
   } catch (error) {
     returnJSON({ req, res, next, code: 400, status:  'error', message: 'Unexpected error' });
   }
@@ -88,7 +87,11 @@ app.get('/subs/tv/:id/:season/:episode', async (req, res, next) => {
   try {
     const { id: imdbid, season, episode } = req.params;
     const subs = await OpenSubtitles.search({ imdbid, season, episode, gzip: true });
-    returnFinalSubs({ req, res, next, imdbid: `${imdbid}-S${season}-E${episode}`, subs: await subs });
+    if (Object.keys(subs).length === 0) {
+      returnJSON({ req, res, next, code: 400, status: 'error', message: 'Error while obtaining subtitles' });
+    } else {
+      returnFinalSubs({ req, res, next, imdbid: `${imdbid}-S${season}-E${episode}`, subs: await subs });
+    }
   } catch (error) {
     returnJSON({ req, res, next, code: 400, status:  'error', message: 'Unexpected error' });
   }
