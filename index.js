@@ -23,8 +23,6 @@ app.use(cors());
 const __dirname = path.resolve();
 app.use(express.static(path.join(__dirname, './')));
 
-const API_URL = `https://rukqilwhdy.eu03.qoddiapp.com`;
-
 const returnJSON = ({req, res, next, code, status, message, ...args}) => {
   res.status(code);
   res.json({
