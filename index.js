@@ -23,7 +23,7 @@ app.use(cors());
 const __dirname = path.resolve();
 app.use(express.static(path.join(__dirname, './')));
 
-const API_URL = `109.74.203.25:8080`;
+const API_URL = `https://rukqilwhdy.eu03.qoddiapp.com`;
 
 const returnJSON = ({req, res, next, code, status, message, ...args}) => {
   res.status(code);
@@ -37,37 +37,37 @@ const returnJSON = ({req, res, next, code, status, message, ...args}) => {
 
 app.use(express.json());
 
-const returnFinalSubs = async ({ req, res, next, imdbid, subs }) => {
-  let finalSubs = {};
-  Object.keys(await subs).forEach((lang, index) => {
-    request({
-      url: subs[lang].url,
-      encoding: null
-    }, (error, response, data) => {
-      if (error) returnJSON({ req, res, next, code: 400, status: 'error', message: 'Error while obtaining subtitles' });
-      unzip(data, (unzipError, buffer) => {
-        if (unzipError) returnJSON({ req, res, next, code: 400, status: 'error', message: 'Error while obtaining subtitles' });
-        const srtFile = `./${imdbid}-${lang}-srt.srt`;
-        try {
-          fs.writeFile(srtFile, buffer, {}, async () => {
-            await fs.createReadStream(srtFile)
-            .pipe(srtToVtt())
-            .pipe(fs.createWriteStream(`./${imdbid}-${lang}-vtt.vtt`));
-            finalSubs = {...finalSubs, [lang]: {
-              ...subs[lang],
-              vtt: `${API_URL}/${imdbid}-${lang}-vtt.vtt`
-            }};
-            if (index === Object.keys(subs).length - 1) {
-              returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Subtitles obtained', subs: finalSubs });
-            }
-          })
-        } catch (err) {
-          returnJSON({ req, res, next, code: 400, status: 'error', message: 'Error while obtaining subtitles' });
-        }
-      });
-    });
-  });
-}
+// const returnFinalSubs = async ({ req, res, next, imdbid, subs }) => {
+//   let finalSubs = {};
+//   Object.keys(await subs).forEach((lang, index) => {
+//     request({
+//       url: subs[lang].url,
+//       encoding: null
+//     }, (error, response, data) => {
+//       if (error) returnJSON({ req, res, next, code: 400, status: 'error', message: 'Error while obtaining subtitles' });
+//       unzip(data, (unzipError, buffer) => {
+//         if (unzipError) returnJSON({ req, res, next, code: 400, status: 'error', message: 'Error while obtaining subtitles' });
+//         const srtFile = `./${imdbid}-${lang}-srt.srt`;
+//         try {
+//           fs.writeFile(srtFile, buffer, {}, async () => {
+//             await fs.createReadStream(srtFile)
+//             .pipe(srtToVtt())
+//             .pipe(fs.createWriteStream(`./${imdbid}-${lang}-vtt.vtt`));
+//             finalSubs = {...finalSubs, [lang]: {
+//               ...subs[lang],
+//               vtt: `${API_URL}/${imdbid}-${lang}-vtt.vtt`
+//             }};
+//             if (index === Object.keys(subs).length - 1) {
+//               returnJSON({ req, res, next, code: 200, status: 'ok', message: 'Subtitles obtained', subs: finalSubs });
+//             }
+//           })
+//         } catch (err) {
+//           returnJSON({ req, res, next, code: 400, status: 'error', message: 'Error while obtaining subtitles' });
+//         }
+//       });
+//     });
+//   });
+// }
 
 app.get('/subs/movie/:id', async (req, res, next) => {
   try {
