@@ -6,8 +6,8 @@ import OS from 'opensubtitles-api';
 
 const OpenSubtitles = new OS({
     useragent: 'Popcorn Time NodeJS',
-    username: '',
-    password: '',
+    username: 'scara78',
+    password: 'scara78',
     ssl: true
 });
 
